@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\refint\DataTypes.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\DataTypes\obj\Debug\net9.0\ref\DataTypes.dll

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\bin\Debug\net9.0\ConditionalStatements.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\bin\Debug\net9.0\ConditionalStatements.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\bin\Debug\net9.0\ConditionalStatements.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\bin\Debug\net9.0\ConditionalStatements.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\bin\Debug\net9.0\ConditionalStatements.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ConditionalStatements.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ConditionalStatements.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ConditionalStatements.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ConditionalStatements.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\refint\ConditionalStatements.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ConditionalStatements.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ConditionalStatements.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\ConditionalStatements\obj\Debug\net9.0\ref\ConditionalStatements.dll
