@@ -1,27 +1,46 @@
-﻿//Single Dimensional Array
-string[] names = new string[5];
-names[0] = "dhaka";
-names[1] = "sylhet";
-
-string[] names2 = new string[] { "dhaka", "Sylhet" };
-string[] names3 = ["dhaka", "sylhet"];
-string[] names4 = {"dhaka", "sylhet"};
-int[] ages = {10, 20, 30};
+﻿////Single Dimensional Array
+//int[] numbers = { 10, 20, 30, 40, 50 };
+//foreach (int num in numbers)
+//{
+//    Console.WriteLine(num);
+//}
 
 
 
-//Multi Dimensional Array
-int[,] twoDimensionalArray = new int[3, 3];
-int[,,] threeDimensionalArray = new int[3, 3, 3];
+////Multi Dimensional Array
+//int[,] matrix = { { 1, 2, 3 }, { 4, 5, 6 } };
+//for (int i = 0; i < matrix.GetLength(0); i++)
+//{
+//    for (int j = 0; j < matrix.GetLength(1); j++)
+//    {
+//        Console.Write(matrix[i, j] + " ");
+//    }
+//    Console.WriteLine();
+//}
 
-int[,] grid4 = new int[,] { { 2, 3 }, { 4, 9 } };
 
 
 
-//Jagged Array
-int[][] jaggedArray = new int[3][];
-jaggedArray[0] = new int[2];
-jaggedArray[1] = new int[6];
-jaggedArray[2] = new int[4];
+////Jagged Array
+////Declaration and Initialization:
+//int[][] jaggedArray = new int[3][];
+//jaggedArray[0] = new int[] { 1, 2, 3 };   // First row has 3 elements
+//jaggedArray[1] = new int[] { 4, 5 };      // Second row has 2 elements
+//jaggedArray[2] = new int[] { 6, 7, 8, 9 }; // Third row has 4 elements
 
-int arrayLength = jaggedArray.GetLength(0);
+////Accessing Elements:
+//Console.WriteLine(jaggedArray[0][1]); // Prints 2 (Second element of first row)
+//Console.WriteLine(jaggedArray[1][0]); // Prints 4 (First element of second row)
+
+////Iterating Through Jagged Array
+//foreach (var row in jaggedArray)
+//{
+//    foreach (var item in row)
+//    {
+//        Console.Write(item + " ");
+//    }
+//    Console.WriteLine();
+}
+
+
+
