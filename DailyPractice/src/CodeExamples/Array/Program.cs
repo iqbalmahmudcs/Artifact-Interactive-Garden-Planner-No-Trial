@@ -125,7 +125,6 @@
 //{
 //    Console.WriteLine("The input is must less than 50).");
 //}
-    
 
 
 
@@ -138,3 +137,23 @@
 
 
 
+
+//In this problem, your task is to read an array A[100].
+//At the end, print all array positions that store a number less or equal to 10 and the number stored in that position.
+//Input: The input contains 100 numbers. Each number can be integer, floating-point number, positive or negative.
+//Output: For each number of the array that is equal to 10 or less, print "A [i] = x", where i is the position of the array and x is the number stored in the position, with one digit after the decimal point.
+
+double[] a = new double[100];
+
+for (int i = 0; i < a.Length; i++)
+{
+    a[i] = double.Parse(Console.ReadLine());
+}
+
+for (int i = 0; i < a.Length; i++)
+{
+    if (a[i] <= 10)
+    {
+        Console.WriteLine($"A[{i}] = {a[i]:F1}");
+    }
+}
