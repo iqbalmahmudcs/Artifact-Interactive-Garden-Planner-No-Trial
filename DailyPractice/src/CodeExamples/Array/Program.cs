@@ -40,6 +40,55 @@
 //        Console.Write(item + " ");
 //    }
 //    Console.WriteLine();
+//}
+
+
+
+
+
+
+//Read an array X[10]. After, replace every null or negative number of X ​by 1. Print all numbers stored in the array X.
+try
+{
+    //Declaring an array
+    Console.Write("Please declare your array size: ");
+    int arraySize = int.Parse(Console.ReadLine());
+    if (arraySize <= 0)
+    {
+        Console.WriteLine("Array size must be greater than 0.");
+    }
+    int[] x = new int[arraySize];
+
+    //Getting input & replacing every null or negative number with 1
+    Console.WriteLine($"Please enter {arraySize} number which may positive / negative / null value: ");
+    for (int i = 0; i < x.Length; i++)
+    {
+        //x[i] = int.Parse(Console.ReadLine());
+        //input validation 
+        bool isValid = int.TryParse(Console.ReadLine(), out x[i]);
+        if (!isValid)
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer number it may including positive / negative / null value.");
+            i--;
+            continue;
+        }
+        if (x[i] <= 0)
+        {
+            Console.WriteLine($"Invalid value at index {i}. Replacing with 1.");
+            x[i] = 1;
+        }
+    }
+
+    //Getting output
+    Console.WriteLine("The Final Array is: ");
+    for (int i = 0; i < x.Length; i++)
+    {
+        Console.WriteLine($"x[{i}] = {x[i]}");
+    }
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"An error occcurred. {ex.Message}");
 }
 
 
