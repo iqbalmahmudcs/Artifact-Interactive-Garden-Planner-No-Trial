@@ -138,22 +138,65 @@
 
 
 
-//In this problem, your task is to read an array A[100].
-//At the end, print all array positions that store a number less or equal to 10 and the number stored in that position.
-//Input: The input contains 100 numbers. Each number can be integer, floating-point number, positive or negative.
-//Output: For each number of the array that is equal to 10 or less, print "A [i] = x", where i is the position of the array and x is the number stored in the position, with one digit after the decimal point.
+////In this problem, your task is to read an array A[100].
+////At the end, print all array positions that store a number less or equal to 10 and the number stored in that position.
+////Input: The input contains 100 numbers. Each number can be integer, floating-point number, positive or negative.
+////Output: For each number of the array that is equal to 10 or less, print "A [i] = x", where i is the position of the array and x is the number stored in the position, with one digit after the decimal point.
 
-double[] a = new double[100];
+//double[] a = new double[100];
 
-for (int i = 0; i < a.Length; i++)
+//for (int i = 0; i < a.Length; i++)
+//{
+//    a[i] = double.Parse(Console.ReadLine());
+//}
+
+//for (int i = 0; i < a.Length; i++)
+//{
+//    if (a[i] <= 10)
+//    {
+//        Console.WriteLine($"A[{i}] = {a[i]:F1}");
+//    }
+//}
+
+
+
+
+
+
+
+
+/*Write a program that reads an array N [20]. After, change the first element by the last, the second element by the last but one, etc.., 
+ * Up to change the 10th to the 11th. print the modified array.
+
+Input
+The input contains 20 integer numbers, positive or negative.
+
+Output
+For each position of the array N print "N[i] = Y", where i is the array position and Y is the number stored in that position.Write a program that reads an array N [20]. 
+After, change the first element by the last, the second element by the last but one, etc.., Up to change the 10th to the 11th. print the modified array.
+
+Input
+The input contains 20 integer numbers, positive or negative.
+
+Output
+For each position of the array N print "N[i] = Y", where i is the array position and Y is the number stored in that position.*/
+
+
+int[] n = new int[20];
+
+for (int i = 0; i < n.Length; i++)
 {
-    a[i] = double.Parse(Console.ReadLine());
+    n[i] = int.Parse(Console.ReadLine());
 }
 
-for (int i = 0; i < a.Length; i++)
+for(int i = 0; i < n.Length / 2; i++)
 {
-    if (a[i] <= 10)
-    {
-        Console.WriteLine($"A[{i}] = {a[i]:F1}");
-    }
+    int temp = n[i];
+    n[i] = n[n.Length - 1 - i];
+    n[n.Length - 1 - i] = temp;
+}
+
+for (int i = 0; i < n.Length; i++)
+{
+    Console.WriteLine($"N[{i}] = {n[i]}");
 }
