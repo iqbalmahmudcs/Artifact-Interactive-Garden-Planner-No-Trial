@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{8816222B-1790-4CB9-A8CB-5F2FD4907523}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5234F861-A80E-43AE-AE28-DC7C685AA866}|DataTypes\\DataTypes.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5234F861-A80E-43AE-AE28-DC7C685AA866}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62664AB2-1DD6-4B4D-8F9D-AB72C2C38100}|Constants\\Constants.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62664AB2-1DD6-4B4D-8F9D-AB72C2C38100}|Constants\\Constants.csproj|solutionrelative:constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80229B75-3C34-4323-9EBA-6FCECDAE5A69}|ConditionalStatements\\ConditionalStatements.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\conditionalstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80229B75-3C34-4323-9EBA-6FCECDAE5A69}|ConditionalStatements\\ConditionalStatements.csproj|solutionrelative:conditionalstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{491E39A5-CE93-4344-B8C0-3A41F673A530}|InputOutput\\InputOutput.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\inputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{491E39A5-CE93-4344-B8C0-3A41F673A530}|InputOutput\\InputOutput.csproj|solutionrelative:inputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5234F861-A80E-43AE-AE28-DC7C685AA866}|DataTypes\\DataTypes.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5234F861-A80E-43AE-AE28-DC7C685AA866}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62664AB2-1DD6-4B4D-8F9D-AB72C2C38100}|Constants\\Constants.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62664AB2-1DD6-4B4D-8F9D-AB72C2C38100}|Constants\\Constants.csproj|solutionrelative:constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Constants\\Program.cs",
               "RelativeDocumentMoniker": "Constants\\Program.cs",
@@ -42,11 +50,12 @@
               "RelativeToolTip": "Constants\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T04:09:05.249Z"
+              "WhenOpened": "2024-12-11T04:09:05.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ConditionalStatements\\Program.cs",
               "RelativeDocumentMoniker": "ConditionalStatements\\Program.cs",
@@ -54,11 +63,12 @@
               "RelativeToolTip": "ConditionalStatements\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T12:16:22.478Z"
+              "WhenOpened": "2024-12-10T12:16:22.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\InputOutput\\Program.cs",
               "RelativeDocumentMoniker": "InputOutput\\Program.cs",
@@ -66,7 +76,8 @@
               "RelativeToolTip": "InputOutput\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:20:12.951Z"
+              "WhenOpened": "2024-12-10T10:20:12.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,14 +87,14 @@
               "RelativeDocumentMoniker": "Array\\Program.cs",
               "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Array\\Program.cs",
               "RelativeToolTip": "Array\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwH0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T09:31:14.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\DataTypes\\Program.cs",
               "RelativeDocumentMoniker": "DataTypes\\Program.cs",
@@ -91,7 +102,8 @@
               "RelativeToolTip": "DataTypes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:04:59.757Z"
+              "WhenOpened": "2024-12-10T09:04:59.757Z",
+              "EditorCaption": ""
             }
           ]
         }

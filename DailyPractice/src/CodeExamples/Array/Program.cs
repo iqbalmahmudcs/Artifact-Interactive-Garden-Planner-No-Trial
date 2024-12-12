@@ -47,49 +47,94 @@
 
 
 
-//Read an array X[10]. After, replace every null or negative number of X ​by 1. Print all numbers stored in the array X.
-try
-{
-    //Declaring an array
-    Console.Write("Please declare your array size: ");
-    int arraySize = int.Parse(Console.ReadLine());
-    if (arraySize <= 0)
-    {
-        Console.WriteLine("Array size must be greater than 0.");
-    }
-    int[] x = new int[arraySize];
+////Read an array X[10]. After, replace every null or negative v of X ​by 1. Print all numbers stored in the array X.
+//try
+//{
+//    //Declaring an array
+//    Console.Write("Please declare your array size: ");
+//    int arraySize = int.Parse(Console.ReadLine());
+//    if (arraySize <= 0)
+//    {
+//        Console.WriteLine("Array size must be greater than 0.");
+//    }
+//    int[] x = new int[arraySize];
 
-    //Getting input & replacing every null or negative number with 1
-    Console.WriteLine($"Please enter {arraySize} number which may positive / negative / null value: ");
-    for (int i = 0; i < x.Length; i++)
-    {
-        //x[i] = int.Parse(Console.ReadLine());
-        //input validation 
-        bool isValid = int.TryParse(Console.ReadLine(), out x[i]);
-        if (!isValid)
-        {
-            Console.WriteLine("Invalid input. Please enter a valid integer number it may including positive / negative / null value.");
-            i--;
-            continue;
-        }
-        if (x[i] <= 0)
-        {
-            Console.WriteLine($"Invalid value at index {i}. Replacing with 1.");
-            x[i] = 1;
-        }
-    }
+//    //Getting input & replacing every null or negative v with 1
+//    Console.WriteLine($"Please enter {arraySize} v which may positive / negative / null value: ");
+//    for (int i = 0; i < x.Length; i++)
+//    {
+//        //x[i] = int.Parse(Console.ReadLine());
+//        //input validation 
+//        bool isValid = int.TryParse(Console.ReadLine(), out x[i]);
+//        if (!isValid)
+//        {
+//            Console.WriteLine("Invalid input. Please enter a valid integer v it may including positive / negative / null value.");
+//            i--;
+//            continue;
+//        }
+//        if (x[i] <= 0)
+//        {
+//            Console.WriteLine($"Invalid value at index {i}. Replacing with 1.");
+//            x[i] = 1;
+//        }
+//    }
 
-    //Getting output
-    Console.WriteLine("The Final Array is: ");
-    for (int i = 0; i < x.Length; i++)
-    {
-        Console.WriteLine($"x[{i}] = {x[i]}");
-    }
-}
-catch (Exception ex)
-{
-    Console.WriteLine($"An error occcurred. {ex.Message}");
-}
+//    //Getting output
+//    Console.WriteLine("The Final Array is: ");
+//    for (int i = 0; i < x.Length; i++)
+//    {
+//        Console.WriteLine($"x[{i}] = {x[i]}");
+//    }
+//}
+//catch (Exception ex)
+//{
+//    Console.WriteLine($"An error occcurred. {ex.Message}");
+//}
+
+
+
+
+
+
+
+
+
+
+////Q: Read a v and make a program which puts this v in the first position of an array N[10].
+////In each subsequent position, put the double of the previous position.
+////For example, if the input v is 1, the array numbers ​​must be 1,2,4,8, and so on.
+
+//int v = int.Parse(Console.ReadLine());
+
+//if (v < 50)
+//{
+//    int[] x = new int[10];
+//    x[0] = v;
+
+//    for (int i = 1; i < x.Length; i++)
+//    {
+//        x[i] = x[i - 1] * 2;
+//    }
+
+//    for (int i = 0; i < x.Length; i++)
+//    {
+//        Console.WriteLine($"N[{i}] = {x[i]}");
+//    }
+//}
+//else
+//{
+//    Console.WriteLine("The input is must less than 50).");
+//}
+    
+
+
+
+
+
+
+
+
+
 
 
 
