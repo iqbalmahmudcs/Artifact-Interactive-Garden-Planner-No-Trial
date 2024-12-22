@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\bin\Debug\net9.0\Class.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\bin\Debug\net9.0\Class.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\bin\Debug\net9.0\Class.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\bin\Debug\net9.0\Class.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\bin\Debug\net9.0\Class.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\Class.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\Class.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\Class.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\Class.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\Class.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\refint\Class.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\Class.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\Class.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Class\obj\Debug\net9.0\ref\Class.dll
