@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\bin\Debug\net9.0\WayTooLongWords.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\bin\Debug\net9.0\WayTooLongWords.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\bin\Debug\net9.0\WayTooLongWords.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\bin\Debug\net9.0\WayTooLongWords.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\bin\Debug\net9.0\WayTooLongWords.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\WayTooLongWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\WayTooLongWords.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\WayTooLongWords.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\WayTooLongWords.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\WayTooLongWords.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\WayTooLongWords.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\refint\WayTooLongWords.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\WayTooLongWords.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\WayTooLongWords.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\WayTooLongWords\obj\Debug\net9.0\ref\WayTooLongWords.dll
