@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\resticteddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\anotherdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\anotherdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Program.cs",
               "RelativeDocumentMoniker": "MoreOnClasses\\Program.cs",
@@ -52,6 +56,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T09:32:15.052Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnotherDiscount.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\AnotherDiscount.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\AnotherDiscount.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\AnotherDiscount.cs",
+              "RelativeToolTip": "MoreOnClasses\\AnotherDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:44:40.153Z",
               "EditorCaption": ""
             },
             {
@@ -68,16 +85,16 @@
               "Title": "RestictedDiscount.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\RestictedDiscount.cs",
               "RelativeDocumentMoniker": "MoreOnClasses\\RestictedDiscount.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\RestictedDiscount.cs*",
-              "RelativeToolTip": "MoreOnClasses\\RestictedDiscount.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\RestictedDiscount.cs",
+              "RelativeToolTip": "MoreOnClasses\\RestictedDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T10:22:22.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Discount.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Discount.cs",
               "RelativeDocumentMoniker": "MoreOnClasses\\Discount.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Rectangle.cs",
               "RelativeDocumentMoniker": "MoreOnClasses\\Rectangle.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Shape.cs",
               "RelativeDocumentMoniker": "MoreOnClasses\\Shape.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Circle.cs",
               "RelativeDocumentMoniker": "MoreOnClasses\\Circle.cs",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Geometry.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Geometry.cs",
               "RelativeDocumentMoniker": "MoreOnClasses\\Geometry.cs",
