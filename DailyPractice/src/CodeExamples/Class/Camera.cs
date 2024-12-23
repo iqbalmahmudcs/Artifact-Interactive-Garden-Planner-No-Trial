@@ -8,9 +8,9 @@ namespace Class
 {
     public class Camera : Electronics
     {
-        public Camera(double energyConsumption, string color) : base(energyConsumption, color)
+        public Camera(double energyConsumption, string color, double price) : base(energyConsumption, color, price)
         {
-            Color = color;
+
 
         }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoreOnClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b4cc8c8e216554342c7327c485ca09ee068981c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2577d3eadc152a8fbbbddbc0e9e8c674b24e6f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoreOnClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoreOnClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
