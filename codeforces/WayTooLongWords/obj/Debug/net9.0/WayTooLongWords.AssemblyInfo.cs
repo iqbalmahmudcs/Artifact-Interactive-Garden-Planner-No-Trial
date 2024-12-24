@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WayTooLongWords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc6e67258939682264f8fc93b9f4cc00f7d89888")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20f4d524fdf5a64b49d7a0451c8eb70ecba581f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WayTooLongWords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WayTooLongWords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

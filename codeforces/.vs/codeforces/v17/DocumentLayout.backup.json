@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C452BBCA-5CF6-460B-817E-0E84FFBADA09}|Team\\Team.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C452BBCA-5CF6-460B-817E-0E84FFBADA09}|Team\\Team.csproj|solutionrelative:team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CA916-25B6-44B8-A436-33BF0A8A7D25}|WayTooLongWords\\WayTooLongWords.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\waytoolongwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CA916-25B6-44B8-A436-33BF0A8A7D25}|WayTooLongWords\\WayTooLongWords.csproj|solutionrelative:waytoolongwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CBAB2A3-E088-4E17-9E44-A8D4E938E459}|Watermelon\\Watermelon.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\watermelon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CBAB2A3-E088-4E17-9E44-A8D4E938E459}|Watermelon\\Watermelon.csproj|solutionrelative:watermelon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C69B065-BFD3-4CA4-A543-41B51E863E01}|Bit\u002B\u002B\\Bit\u002B\u002B.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\bit\u002B\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69B065-BFD3-4CA4-A543-41B51E863E01}|Bit\u002B\u002B\\Bit\u002B\u002B.csproj|solutionrelative:bit\u002B\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,39 +28,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\Team\\Program.cs",
-              "RelativeDocumentMoniker": "Team\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\Team\\Program.cs",
-              "RelativeToolTip": "Team\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\Bit\u002B\u002B\\Program.cs",
+              "RelativeDocumentMoniker": "Bit\u002B\u002B\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\Bit\u002B\u002B\\Program.cs",
+              "RelativeToolTip": "Bit\u002B\u002B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T04:32:48.762Z",
+              "WhenOpened": "2024-12-24T09:52:14.874Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\WayTooLongWords\\Program.cs",
-              "RelativeDocumentMoniker": "WayTooLongWords\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\WayTooLongWords\\Program.cs",
-              "RelativeToolTip": "WayTooLongWords\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T18:40:08.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\Watermelon\\Program.cs",
-              "RelativeDocumentMoniker": "Watermelon\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\Watermelon\\Program.cs",
-              "RelativeToolTip": "Watermelon\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T18:17:58.586Z"
             }
           ]
         }
