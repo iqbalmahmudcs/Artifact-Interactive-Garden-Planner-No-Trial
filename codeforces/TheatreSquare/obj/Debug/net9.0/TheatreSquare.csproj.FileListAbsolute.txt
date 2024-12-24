@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\bin\Debug\net9.0\TheatreSquare.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\bin\Debug\net9.0\TheatreSquare.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\bin\Debug\net9.0\TheatreSquare.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\bin\Debug\net9.0\TheatreSquare.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\bin\Debug\net9.0\TheatreSquare.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\TheatreSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\TheatreSquare.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\TheatreSquare.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\TheatreSquare.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\TheatreSquare.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\TheatreSquare.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\refint\TheatreSquare.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\TheatreSquare.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\TheatreSquare.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\TheatreSquare\obj\Debug\net9.0\ref\TheatreSquare.dll
