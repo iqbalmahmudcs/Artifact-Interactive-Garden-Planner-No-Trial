@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\bin\Debug\net9.0\Bit++.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\bin\Debug\net9.0\Bit++.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\bin\Debug\net9.0\Bit++.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\bin\Debug\net9.0\Bit++.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\bin\Debug\net9.0\Bit++.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\Bit++.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\Bit++.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\Bit++.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\Bit++.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\Bit++.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\Bit++.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\refint\Bit++.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\Bit++.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\Bit++.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\Bit++\obj\Debug\net9.0\ref\Bit++.dll
