@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\bin\Debug\net9.0\NextRound.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\bin\Debug\net9.0\NextRound.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\bin\Debug\net9.0\NextRound.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\bin\Debug\net9.0\NextRound.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\bin\Debug\net9.0\NextRound.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\NextRound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\NextRound.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\NextRound.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\NextRound.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\NextRound.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\NextRound.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\refint\NextRound.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\NextRound.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\NextRound.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\NextRound\obj\Debug\net9.0\ref\NextRound.dll
