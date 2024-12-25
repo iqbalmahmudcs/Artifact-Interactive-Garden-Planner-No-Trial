@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\bin\Debug\net9.0\IterfaceExample.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\bin\Debug\net9.0\IterfaceExample.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\bin\Debug\net9.0\IterfaceExample.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\bin\Debug\net9.0\IterfaceExample.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\bin\Debug\net9.0\IterfaceExample.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\IterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\IterfaceExample.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\IterfaceExample.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\IterfaceExample.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\IterfaceExample.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\IterfaceExample.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\refint\IterfaceExample.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\IterfaceExample.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\IterfaceExample.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\IterfaceExample\obj\Debug\net9.0\ref\IterfaceExample.dll
