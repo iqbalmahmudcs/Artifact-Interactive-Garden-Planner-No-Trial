@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOnClasses", "MoreOnClasses\MoreOnClasses.csproj", "{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterfaceExample", "IterfaceExample\IterfaceExample.csproj", "{E121B1FC-7CF5-417A-A5A8-1B2CD747046C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "IterfaceExample\InterfaceExample.csproj", "{E121B1FC-7CF5-417A-A5A8-1B2CD747046C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{EE4361E3-0ADE-4E4A-9C96-4A0BBF3856EE}"
 EndProject

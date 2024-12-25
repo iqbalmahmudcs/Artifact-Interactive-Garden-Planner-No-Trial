@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\IterfaceExample\\IterfaceExample.csproj",
-      "projectName": "IterfaceExample",
-      "projectPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\IterfaceExample\\IterfaceExample.csproj",
+      "projectUniqueName": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\IterfaceExample\\InterfaceExample.csproj",
+      "projectName": "InterfaceExample",
+      "projectPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\IterfaceExample\\InterfaceExample.csproj",
       "packagesPath": "C:\\Users\\iqbal\\.nuget\\packages\\",
       "outputPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\IterfaceExample\\obj\\",
       "projectStyle": "PackageReference",
