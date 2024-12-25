@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\resticteddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\resticteddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\anotherdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\anotherdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\moreonclasses\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7817A5-8C9B-402C-9320-0DAE62FAC1A0}|MoreOnClasses\\MoreOnClasses.csproj|solutionrelative:moreonclasses\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 477,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Program.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Program.cs",
+              "RelativeToolTip": "MoreOnClasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:32:15.052Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnotherDiscount.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\AnotherDiscount.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\AnotherDiscount.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\AnotherDiscount.cs",
+              "RelativeToolTip": "MoreOnClasses\\AnotherDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:44:40.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestictedDiscount.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\RestictedDiscount.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\RestictedDiscount.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\RestictedDiscount.cs",
+              "RelativeToolTip": "MoreOnClasses\\RestictedDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:22:22.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Discount.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\Discount.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Discount.cs",
+              "RelativeToolTip": "MoreOnClasses\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:18:54.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Rectangle.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\Rectangle.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Rectangle.cs",
+              "RelativeToolTip": "MoreOnClasses\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:10:27.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Shape.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\Shape.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Shape.cs",
+              "RelativeToolTip": "MoreOnClasses\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:57:53.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Circle.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\Circle.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Circle.cs",
+              "RelativeToolTip": "MoreOnClasses\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:40:18.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Geometry.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Geometry.cs",
+              "RelativeDocumentMoniker": "MoreOnClasses\\Geometry.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\MoreOnClasses\\Geometry.cs",
+              "RelativeToolTip": "MoreOnClasses\\Geometry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:32:13.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

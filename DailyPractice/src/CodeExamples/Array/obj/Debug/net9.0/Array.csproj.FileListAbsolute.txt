@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\Array.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\bin\Debug\net9.0\Array.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\bin\Debug\net9.0\Array.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\bin\Debug\net9.0\Array.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\bin\Debug\net9.0\Array.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\Array.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\refint\Array.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\Array.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\DailyPractice\src\CodeExamples\Array\obj\Debug\net9.0\ref\Array.dll
