@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C69B065-BFD3-4CA4-A543-41B51E863E01}|Bit\u002B\u002B\\Bit\u002B\u002B.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\bit\u002B\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C69B065-BFD3-4CA4-A543-41B51E863E01}|Bit\u002B\u002B\\Bit\u002B\u002B.csproj|solutionrelative:bit\u002B\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8835B3CE-D17F-448A-B060-45CC060BE32A}|NextRound\\NextRound.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\nextround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8835B3CE-D17F-448A-B060-45CC060BE32A}|NextRound\\NextRound.csproj|solutionrelative:nextround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\Bit\u002B\u002B\\Program.cs",
-              "RelativeDocumentMoniker": "Bit\u002B\u002B\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\Bit\u002B\u002B\\Program.cs",
-              "RelativeToolTip": "Bit\u002B\u002B\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\NextRound\\Program.cs",
+              "RelativeDocumentMoniker": "NextRound\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\NextRound\\Program.cs",
+              "RelativeToolTip": "NextRound\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T09:52:14.874Z",
+              "WhenOpened": "2024-12-24T12:34:16.647Z",
               "EditorCaption": ""
             }
           ]

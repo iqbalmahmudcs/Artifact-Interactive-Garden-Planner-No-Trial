@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheatreSquare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2407727cb9d5ede35c2ccc8939ee3dd8d5ad2ba4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af1ea9bae1de542d3c8f5506247ca68404575b3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheatreSquare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheatreSquare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

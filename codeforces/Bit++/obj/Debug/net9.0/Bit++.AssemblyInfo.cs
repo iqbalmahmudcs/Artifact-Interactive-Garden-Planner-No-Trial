@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bit++")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20f4d524fdf5a64b49d7a0451c8eb70ecba581f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af1ea9bae1de542d3c8f5506247ca68404575b3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bit++")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bit++")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
