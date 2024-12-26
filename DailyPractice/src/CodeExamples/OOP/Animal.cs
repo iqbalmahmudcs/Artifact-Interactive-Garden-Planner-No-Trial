@@ -18,6 +18,6 @@ namespace OOP
         public string Name { get; set; }
         protected string Habitat {  get; set; }
         private string Species { get; set; }
-        public void Eat() => Console.WriteLine("The Animale is Eatting...");
+        //public void Eat() => Console.WriteLine("The Animale is Eatting...");
     }
 }
