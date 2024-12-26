@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\bin\Debug\net9.0\PetyaAndStrings.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\bin\Debug\net9.0\PetyaAndStrings.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\bin\Debug\net9.0\PetyaAndStrings.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\bin\Debug\net9.0\PetyaAndStrings.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\bin\Debug\net9.0\PetyaAndStrings.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\PetyaAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\PetyaAndStrings.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\PetyaAndStrings.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\PetyaAndStrings.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\PetyaAndStrings.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\PetyaAndStrings.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\refint\PetyaAndStrings.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\PetyaAndStrings.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\PetyaAndStrings.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\codeforces\PetyaAndStrings\obj\Debug\net9.0\ref\PetyaAndStrings.dll
