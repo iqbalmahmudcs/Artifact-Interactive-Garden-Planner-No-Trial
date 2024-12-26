@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\bin\Debug\net9.0\Task2.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\bin\Debug\net9.0\Task2.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\bin\Debug\net9.0\Task2.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\bin\Debug\net9.0\Task2.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\Task2.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\Task2.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\refint\Task2.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\Task2.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\Exam-1\src\Exam\Task2\obj\Debug\net9.0\ref\Task2.dll
