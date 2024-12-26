@@ -6,9 +6,9 @@ Car car = new Car { Brand = "Toyota", Speed = 100};
 car.Drive();
 
 //02. Encapsulation
-BankAccount bankAccount = new BankAccount();
-bankAccount.Deposit(200);
-bankAccount.GetBalance();
+BankAccount account = new BankAccount();
+account.Deposit(200);
+Console.WriteLine($"Current Balance: {account.GetBalance()}");
 
 //03. Inheritance
 Dog dog = new Dog();
