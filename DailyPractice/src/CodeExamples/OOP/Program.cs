@@ -43,4 +43,6 @@ book.Title = "The Holy Quran";
 book.Author = "Allah";
 book.DisplayDetails();
 
-
+//Encapsulation
+Student student = new Student();
+student.SetGrade(105);
