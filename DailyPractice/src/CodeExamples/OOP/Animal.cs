@@ -15,6 +15,9 @@ namespace OOP
     //This is Parent Class
     public class Animal
     {
+        public string Name { get; set; }
+        protected string Habitat {  get; set; }
+        private string Species { get; set; }
         public void Eat() => Console.WriteLine("The Animale is Eatting...");
     }
 }
