@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task3
 {
-    public class RandomNumberGenerator
+    public static class RandomNumberGenerator
     {
         private int _seed;
         private Random _rand;
