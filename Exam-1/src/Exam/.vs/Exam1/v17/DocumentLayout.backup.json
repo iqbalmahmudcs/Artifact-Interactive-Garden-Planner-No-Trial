@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63B84D00-B820-4E8F-AEFB-49E73FB157DB}|Task4\\Task4.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\exam-1\\src\\exam\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63B84D00-B820-4E8F-AEFB-49E73FB157DB}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCDF7647-BC06-4835-A1EC-847F84785BAD}|Task1\\Task1.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\exam-1\\src\\exam\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDF7647-BC06-4835-A1EC-847F84785BAD}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63B84D00-B820-4E8F-AEFB-49E73FB157DB}|Task4\\Task4.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\exam-1\\src\\exam\\task4\\cannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63B84D00-B820-4E8F-AEFB-49E73FB157DB}|Task4\\Task4.csproj|solutionrelative:task4\\cannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCDF7647-BC06-4835-A1EC-847F84785BAD}|Task1\\Task1.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\exam-1\\src\\exam\\task1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDF7647-BC06-4835-A1EC-847F84785BAD}|Task1\\Task1.csproj|solutionrelative:task1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63B84D00-B820-4E8F-AEFB-49E73FB157DB}|Task4\\Task4.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\exam-1\\src\\exam\\task4\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63B84D00-B820-4E8F-AEFB-49E73FB157DB}|Task4\\Task4.csproj|solutionrelative:task4\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCDF7647-BC06-4835-A1EC-847F84785BAD}|Task1\\Task1.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\exam-1\\src\\exam\\task1\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDF7647-BC06-4835-A1EC-847F84785BAD}|Task1\\Task1.csproj|solutionrelative:task1\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task1\\Car.cs",
+              "RelativeDocumentMoniker": "Task1\\Car.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task1\\Car.cs",
+              "RelativeToolTip": "Task1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:04:39.906Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -36,39 +50,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task4\\Program.cs",
-              "RelativeDocumentMoniker": "Task4\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task4\\Program.cs",
-              "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:46:01.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cannon.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task4\\Cannon.cs",
-              "RelativeDocumentMoniker": "Task4\\Cannon.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task4\\Cannon.cs",
-              "RelativeToolTip": "Task4\\Cannon.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:30:03.929Z",
+              "WhenOpened": "2024-12-26T18:02:48.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Camera.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task4\\Camera.cs",
-              "RelativeDocumentMoniker": "Task4\\Camera.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task4\\Camera.cs",
-              "RelativeToolTip": "Task4\\Camera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Title": "Machine.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task1\\Machine.cs",
+              "RelativeDocumentMoniker": "Task1\\Machine.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\Exam-1\\src\\Exam\\Task1\\Machine.cs",
+              "RelativeToolTip": "Task1\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:29:45.807Z",
+              "WhenOpened": "2024-12-26T18:02:48.222Z",
               "EditorCaption": ""
             }
           ]

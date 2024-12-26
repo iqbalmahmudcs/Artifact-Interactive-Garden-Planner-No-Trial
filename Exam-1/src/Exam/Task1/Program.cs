@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Task1;
+
+Machine machine = new Machine();
+machine.Start();
+
+Machine car = new Car();
+car.Start();
