@@ -6,14 +6,22 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    public class Student
+    public class Student : Person
     {
-        public string Name { get; set; }
-        public DateTime DateOfBirth { get; set; }
+        public int Grade { get; set; }
+
+        public override void DisplayDetails()
+        {
+            Console.WriteLine($"Student Details:");
+            Console.WriteLine($"---------------");
+            Console.WriteLine($"Name: {FirstName+ " " +LasttName}");
+            Console.WriteLine($"Date Of Birth: {DateOfBirth}");
+            Console.WriteLine($"Grade: {Grade}");
+        }
 
         public string GenerateId()
         {
-            return "S" + Name;
+            return "S" + FirstName;
         }
     }
 }

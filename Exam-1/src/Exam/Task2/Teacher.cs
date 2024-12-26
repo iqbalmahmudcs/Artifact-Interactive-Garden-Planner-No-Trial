@@ -6,14 +6,24 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    public class Teacher
+    public class Teacher : Person
     {
-        public string Name { get; set; }
-        public DateTime DateOfBirth {get;set;}
+        public String Department { get; set; }
+        public string Subject { get; set; }
+
+        public override void DisplayDetails()
+        {
+            Console.WriteLine($"Teacher Details:");
+            Console.WriteLine($"---------------");
+            Console.WriteLine($"Name: {FirstName + " " + LasttName}");
+            Console.WriteLine($"Date Of Birth: {DateOfBirth}");
+            Console.WriteLine($"Department: {Department}");
+            Console.WriteLine($"Subject: {Subject}");
+        }
 
         public string GenerateId()
         {
-            return "T"+ Name;
+            return "T" + FirstName;
         }
     }
 }
