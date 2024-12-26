@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BF2BB45-6117-4E08-B8CB-19869C11D7E0}|DominoPiling\\DominoPiling.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\dominopiling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF2BB45-6117-4E08-B8CB-19869C11D7E0}|DominoPiling\\DominoPiling.csproj|solutionrelative:dominopiling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8835B3CE-D17F-448A-B060-45CC060BE32A}|NextRound\\NextRound.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\nextround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8835B3CE-D17F-448A-B060-45CC060BE32A}|NextRound\\NextRound.csproj|solutionrelative:nextround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B291CFB-A3C3-4720-BB74-7132295FC56E}|BeautifulMatrix\\BeautifulMatrix.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\codeforces\\beautifulmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B291CFB-A3C3-4720-BB74-7132295FC56E}|BeautifulMatrix\\BeautifulMatrix.csproj|solutionrelative:beautifulmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\DominoPiling\\Program.cs",
-              "RelativeDocumentMoniker": "DominoPiling\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\DominoPiling\\Program.cs",
-              "RelativeToolTip": "DominoPiling\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\BeautifulMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "BeautifulMatrix\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\BeautifulMatrix\\Program.cs",
+              "RelativeToolTip": "BeautifulMatrix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:29:29.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\NextRound\\Program.cs",
-              "RelativeDocumentMoniker": "NextRound\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\codeforces\\NextRound\\Program.cs",
-              "RelativeToolTip": "NextRound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:34:16.647Z",
+              "WhenOpened": "2024-12-26T06:33:09.241Z",
               "EditorCaption": ""
             }
           ]
