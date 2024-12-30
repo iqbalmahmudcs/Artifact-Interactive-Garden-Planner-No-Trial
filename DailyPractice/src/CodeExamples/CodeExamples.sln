@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "Iterfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{EE4361E3-0ADE-4E4A-9C96-4A0BBF3856EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{EE4361E3-0ADE-4E4A-9C96-4A0BBF3856EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE4361E3-0ADE-4E4A-9C96-4A0BBF3856EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE4361E3-0ADE-4E4A-9C96-4A0BBF3856EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
