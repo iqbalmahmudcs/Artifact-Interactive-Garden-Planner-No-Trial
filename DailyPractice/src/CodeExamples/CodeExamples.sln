@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAndChar", "StringAndChar\StringAndChar.csproj", "{5AB41ACF-6C56-4BD2-95A4-C37B2C4C2571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploreAccessModifiersWithInheritance", "ExploreAccessModifiersWithInheritance\ExploreAccessModifiersWithInheritance.csproj", "{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB41ACF-6C56-4BD2-95A4-C37B2C4C2571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB41ACF-6C56-4BD2-95A4-C37B2C4C2571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB41ACF-6C56-4BD2-95A4-C37B2C4C2571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB41ACF-6C56-4BD2-95A4-C37B2C4C2571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

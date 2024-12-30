@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}|PartialClass\\PartialClass.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}|ExploreAccessModifiersWithInheritance\\ExploreAccessModifiersWithInheritance.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\exploreaccessmodifierswithinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}|ExploreAccessModifiersWithInheritance\\ExploreAccessModifiersWithInheritance.csproj|solutionrelative:exploreaccessmodifierswithinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}|PartialClass\\PartialClass.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\partialclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6513B5-01E7-41F9-B817-C0E2A0BEB6BC}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}|ExploreAccessModifiersWithInheritance\\ExploreAccessModifiersWithInheritance.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\exploreaccessmodifierswithinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}|ExploreAccessModifiersWithInheritance\\ExploreAccessModifiersWithInheritance.csproj|solutionrelative:exploreaccessmodifierswithinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}|ExploreAccessModifiersWithInheritance\\ExploreAccessModifiersWithInheritance.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\exploreaccessmodifierswithinheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}|ExploreAccessModifiersWithInheritance\\ExploreAccessModifiersWithInheritance.csproj|solutionrelative:exploreaccessmodifierswithinheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ExploreAccessModifiersWithInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "ExploreAccessModifiersWithInheritance\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ExploreAccessModifiersWithInheritance\\Program.cs*",
+              "RelativeToolTip": "ExploreAccessModifiersWithInheritance\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:11:27.341Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -30,28 +48,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\PartialClass\\Program.cs",
-              "RelativeDocumentMoniker": "PartialClass\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\PartialClass\\Program.cs",
-              "RelativeToolTip": "PartialClass\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ExploreAccessModifiersWithInheritance\\Car.cs",
+              "RelativeDocumentMoniker": "ExploreAccessModifiersWithInheritance\\Car.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ExploreAccessModifiersWithInheritance\\Car.cs",
+              "RelativeToolTip": "ExploreAccessModifiersWithInheritance\\Car.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T06:53:40.479Z",
+              "WhenOpened": "2024-12-30T10:12:58.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\PartialClass\\Product.cs",
-              "RelativeDocumentMoniker": "PartialClass\\Product.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\PartialClass\\Product.cs",
-              "RelativeToolTip": "PartialClass\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ExploreAccessModifiersWithInheritance\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ExploreAccessModifiersWithInheritance\\Vehicle.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ExploreAccessModifiersWithInheritance\\Vehicle.cs",
+              "RelativeToolTip": "ExploreAccessModifiersWithInheritance\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T06:53:36.416Z",
+              "WhenOpened": "2024-12-30T10:12:00.792Z",
               "EditorCaption": ""
             }
           ]
