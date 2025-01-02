@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAndChar", "StringAndC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploreAccessModifiersWithInheritance", "ExploreAccessModifiersWithInheritance\ExploreAccessModifiersWithInheritance.csproj", "{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverLoadingExample", "MethodOverLoadingExample\MethodOverLoadingExample.csproj", "{037FFE0F-B8AF-4F9F-A780-C699695ACD8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0A7529D-3F50-465A-A1EE-434C17EE7C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037FFE0F-B8AF-4F9F-A780-C699695ACD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037FFE0F-B8AF-4F9F-A780-C699695ACD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037FFE0F-B8AF-4F9F-A780-C699695ACD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037FFE0F-B8AF-4F9F-A780-C699695ACD8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
