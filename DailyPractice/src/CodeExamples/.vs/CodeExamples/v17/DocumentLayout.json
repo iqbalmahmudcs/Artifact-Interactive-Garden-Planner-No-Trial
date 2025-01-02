@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B129174A-C16A-49A5-9A83-C0BDD3ABA296}|CalculatorWithOverloadedMethods\\CalculatorWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\calculatorwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B129174A-C16A-49A5-9A83-C0BDD3ABA296}|CalculatorWithOverloadedMethods\\CalculatorWithOverloadedMethods.csproj|solutionrelative:calculatorwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}|AreaCalculatorWithOverloadedMethods\\AreaCalculatorWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\areacalculatorwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}|AreaCalculatorWithOverloadedMethods\\AreaCalculatorWithOverloadedMethods.csproj|solutionrelative:areacalculatorwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B129174A-C16A-49A5-9A83-C0BDD3ABA296}|CalculatorWithOverloadedMethods\\CalculatorWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\calculatorwithoverloadedmethods\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B129174A-C16A-49A5-9A83-C0BDD3ABA296}|CalculatorWithOverloadedMethods\\CalculatorWithOverloadedMethods.csproj|solutionrelative:calculatorwithoverloadedmethods\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}|AreaCalculatorWithOverloadedMethods\\AreaCalculatorWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\areacalculatorwithoverloadedmethods\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}|AreaCalculatorWithOverloadedMethods\\AreaCalculatorWithOverloadedMethods.csproj|solutionrelative:areacalculatorwithoverloadedmethods\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\CalculatorWithOverloadedMethods\\Calculator.cs",
-              "RelativeDocumentMoniker": "CalculatorWithOverloadedMethods\\Calculator.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\CalculatorWithOverloadedMethods\\Calculator.cs",
-              "RelativeToolTip": "CalculatorWithOverloadedMethods\\Calculator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\AreaCalculatorWithOverloadedMethods\\Program.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorWithOverloadedMethods\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\AreaCalculatorWithOverloadedMethods\\Program.cs",
+              "RelativeToolTip": "AreaCalculatorWithOverloadedMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T09:50:59.948Z",
+              "WhenOpened": "2025-01-02T10:47:17.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\CalculatorWithOverloadedMethods\\Program.cs",
-              "RelativeDocumentMoniker": "CalculatorWithOverloadedMethods\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\CalculatorWithOverloadedMethods\\Program.cs*",
-              "RelativeToolTip": "CalculatorWithOverloadedMethods\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AreaCalculator.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\AreaCalculatorWithOverloadedMethods\\AreaCalculator.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorWithOverloadedMethods\\AreaCalculator.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\AreaCalculatorWithOverloadedMethods\\AreaCalculator.cs",
+              "RelativeToolTip": "AreaCalculatorWithOverloadedMethods\\AreaCalculator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T09:49:44.714Z",
+              "WhenOpened": "2025-01-02T10:30:06.416Z",
               "EditorCaption": ""
             }
           ]

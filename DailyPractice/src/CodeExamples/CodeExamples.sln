@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverLoadingExample", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWithOverloadedMethods", "CalculatorWithOverloadedMethods\CalculatorWithOverloadedMethods.csproj", "{B129174A-C16A-49A5-9A83-C0BDD3ABA296}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculatorWithOverloadedMethods", "AreaCalculatorWithOverloadedMethods\AreaCalculatorWithOverloadedMethods.csproj", "{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{B129174A-C16A-49A5-9A83-C0BDD3ABA296}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B129174A-C16A-49A5-9A83-C0BDD3ABA296}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B129174A-C16A-49A5-9A83-C0BDD3ABA296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
