@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}|AreaCalculatorWithOverloadedMethods\\AreaCalculatorWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\areacalculatorwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}|AreaCalculatorWithOverloadedMethods\\AreaCalculatorWithOverloadedMethods.csproj|solutionrelative:areacalculatorwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{785EAC31-63C1-4819-AF62-1610E27A2B30}|StringManipulationWithOverloadedMethods\\StringManipulationWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\stringmanipulationwithoverloadedmethods\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785EAC31-63C1-4819-AF62-1610E27A2B30}|StringManipulationWithOverloadedMethods\\StringManipulationWithOverloadedMethods.csproj|solutionrelative:stringmanipulationwithoverloadedmethods\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}|AreaCalculatorWithOverloadedMethods\\AreaCalculatorWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\areacalculatorwithoverloadedmethods\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49CEEE09-9FD3-4D2C-8F56-ED62BE298A82}|AreaCalculatorWithOverloadedMethods\\AreaCalculatorWithOverloadedMethods.csproj|solutionrelative:areacalculatorwithoverloadedmethods\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{785EAC31-63C1-4819-AF62-1610E27A2B30}|StringManipulationWithOverloadedMethods\\StringManipulationWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\stringmanipulationwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785EAC31-63C1-4819-AF62-1610E27A2B30}|StringManipulationWithOverloadedMethods\\StringManipulationWithOverloadedMethods.csproj|solutionrelative:stringmanipulationwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\AreaCalculatorWithOverloadedMethods\\Program.cs",
-              "RelativeDocumentMoniker": "AreaCalculatorWithOverloadedMethods\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\AreaCalculatorWithOverloadedMethods\\Program.cs",
-              "RelativeToolTip": "AreaCalculatorWithOverloadedMethods\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T10:47:17.754Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -43,15 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AreaCalculator.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\AreaCalculatorWithOverloadedMethods\\AreaCalculator.cs",
-              "RelativeDocumentMoniker": "AreaCalculatorWithOverloadedMethods\\AreaCalculator.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\AreaCalculatorWithOverloadedMethods\\AreaCalculator.cs",
-              "RelativeToolTip": "AreaCalculatorWithOverloadedMethods\\AreaCalculator.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StringManipulator.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StringManipulationWithOverloadedMethods\\StringManipulator.cs",
+              "RelativeDocumentMoniker": "StringManipulationWithOverloadedMethods\\StringManipulator.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StringManipulationWithOverloadedMethods\\StringManipulator.cs",
+              "RelativeToolTip": "StringManipulationWithOverloadedMethods\\StringManipulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T10:30:06.416Z",
+              "WhenOpened": "2025-01-02T11:03:21.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StringManipulationWithOverloadedMethods\\Program.cs",
+              "RelativeDocumentMoniker": "StringManipulationWithOverloadedMethods\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StringManipulationWithOverloadedMethods\\Program.cs*",
+              "RelativeToolTip": "StringManipulationWithOverloadedMethods\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:02:51.902Z",
               "EditorCaption": ""
             }
           ]
