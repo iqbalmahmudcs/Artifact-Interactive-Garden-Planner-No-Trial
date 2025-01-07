@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetyaAndStrings", "PetyaAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulMaths", "HelpfulMaths\HelpfulMaths.csproj", "{FF5D5398-E7AC-4838-9AAE-93206D792B32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11WordCapitalization", "11WordCapitalization\11WordCapitalization.csproj", "{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{FF5D5398-E7AC-4838-9AAE-93206D792B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF5D5398-E7AC-4838-9AAE-93206D792B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF5D5398-E7AC-4838-9AAE-93206D792B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
