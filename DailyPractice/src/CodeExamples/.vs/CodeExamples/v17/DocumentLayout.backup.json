@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{785EAC31-63C1-4819-AF62-1610E27A2B30}|StringManipulationWithOverloadedMethods\\StringManipulationWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\stringmanipulationwithoverloadedmethods\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785EAC31-63C1-4819-AF62-1610E27A2B30}|StringManipulationWithOverloadedMethods\\StringManipulationWithOverloadedMethods.csproj|solutionrelative:stringmanipulationwithoverloadedmethods\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67412A3A-D252-42E5-B771-28FD66E9BE3E}|ParameterModifiers\\ParameterModifiers.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\parametermodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67412A3A-D252-42E5-B771-28FD66E9BE3E}|ParameterModifiers\\ParameterModifiers.csproj|solutionrelative:parametermodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{785EAC31-63C1-4819-AF62-1610E27A2B30}|StringManipulationWithOverloadedMethods\\StringManipulationWithOverloadedMethods.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\stringmanipulationwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785EAC31-63C1-4819-AF62-1610E27A2B30}|StringManipulationWithOverloadedMethods\\StringManipulationWithOverloadedMethods.csproj|solutionrelative:stringmanipulationwithoverloadedmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67412A3A-D252-42E5-B771-28FD66E9BE3E}|ParameterModifiers\\ParameterModifiers.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\parametermodifiers\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67412A3A-D252-42E5-B771-28FD66E9BE3E}|ParameterModifiers\\ParameterModifiers.csproj|solutionrelative:parametermodifiers\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StringManipulator.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StringManipulationWithOverloadedMethods\\StringManipulator.cs",
-              "RelativeDocumentMoniker": "StringManipulationWithOverloadedMethods\\StringManipulator.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StringManipulationWithOverloadedMethods\\StringManipulator.cs",
-              "RelativeToolTip": "StringManipulationWithOverloadedMethods\\StringManipulator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ParameterModifiers\\Demo.cs",
+              "RelativeDocumentMoniker": "ParameterModifiers\\Demo.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ParameterModifiers\\Demo.cs*",
+              "RelativeToolTip": "ParameterModifiers\\Demo.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T11:03:21.567Z",
+              "WhenOpened": "2025-01-09T13:45:01.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StringManipulationWithOverloadedMethods\\Program.cs",
-              "RelativeDocumentMoniker": "StringManipulationWithOverloadedMethods\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StringManipulationWithOverloadedMethods\\Program.cs*",
-              "RelativeToolTip": "StringManipulationWithOverloadedMethods\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ParameterModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "ParameterModifiers\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ParameterModifiers\\Program.cs*",
+              "RelativeToolTip": "ParameterModifiers\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T11:02:51.902Z",
+              "WhenOpened": "2025-01-09T13:44:36.73Z",
               "EditorCaption": ""
             }
           ]
