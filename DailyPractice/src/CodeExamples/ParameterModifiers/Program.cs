@@ -6,3 +6,7 @@ int a = 50;
 
 Demo.Test1(ref a);
 Console.WriteLine();
+
+int b = 50;
+Demo.Test3(out b);
+Console.WriteLine(b);

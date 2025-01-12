@@ -24,12 +24,12 @@ namespace ParameterModifiers
         }
         public static void Test2(in int x)
         {
-
+            //x = 5;
         }
-        //public static void Test3(out int x)
-        //{
-
-        //}
+        public static void Test3(out int x)
+        {
+            x = 5;
+        }
 
 
     }
