@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic", "Dynamic\Dynamic.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{EE359884-B0A1-4396-A874-B0DE37B52C3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltInCollections", "BuiltInCollections\BuiltInCollections.csproj", "{4ABA2941-DE09-4324-B4CB-16948918CAA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{EE359884-B0A1-4396-A874-B0DE37B52C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE359884-B0A1-4396-A874-B0DE37B52C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE359884-B0A1-4396-A874-B0DE37B52C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABA2941-DE09-4324-B4CB-16948918CAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABA2941-DE09-4324-B4CB-16948918CAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABA2941-DE09-4324-B4CB-16948918CAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABA2941-DE09-4324-B4CB-16948918CAA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
