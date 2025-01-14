@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ABA2941-DE09-4324-B4CB-16948918CAA8}|BuiltInCollections\\BuiltInCollections.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\builtincollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABA2941-DE09-4324-B4CB-16948918CAA8}|BuiltInCollections\\BuiltInCollections.csproj|solutionrelative:builtincollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76B34739-5D52-4210-B782-2A9828386F73}|ADONetExample\\ADONetExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\adonetexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B34739-5D52-4210-B782-2A9828386F73}|ADONetExample\\ADONetExample.csproj|solutionrelative:adonetexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B34739-5D52-4210-B782-2A9828386F73}|ADONetExample\\ADONetExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\adonetexample\\datautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B34739-5D52-4210-B782-2A9828386F73}|ADONetExample\\ADONetExample.csproj|solutionrelative:adonetexample\\datautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ADONetExample\\Program.cs",
+              "RelativeDocumentMoniker": "ADONetExample\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ADONetExample\\Program.cs",
+              "RelativeToolTip": "ADONetExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:16:01.975Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataUtility.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ADONetExample\\DataUtility.cs",
+              "RelativeDocumentMoniker": "ADONetExample\\DataUtility.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\ADONetExample\\DataUtility.cs",
+              "RelativeToolTip": "ADONetExample\\DataUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:16:44.041Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -23,19 +55,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\BuiltInCollections\\Program.cs",
-              "RelativeDocumentMoniker": "BuiltInCollections\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\BuiltInCollections\\Program.cs",
-              "RelativeToolTip": "BuiltInCollections\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T13:36:33.065Z",
-              "EditorCaption": ""
             }
           ]
         }
