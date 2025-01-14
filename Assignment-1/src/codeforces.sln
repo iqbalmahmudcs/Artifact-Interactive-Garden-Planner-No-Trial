@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35507.96
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watermelon", "Watermelon\Watermelon.csproj", "{9CBAB2A3-E088-4E17-9E44-A8D4E938E459}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Watermelon", "Watermelon\01Watermelon.csproj", "{9CBAB2A3-E088-4E17-9E44-A8D4E938E459}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WayTooLongWords", "WayTooLongWords\WayTooLongWords.csproj", "{296CA916-25B6-44B8-A436-33BF0A8A7D25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02WayTooLongWords", "WayTooLongWords\02WayTooLongWords.csproj", "{296CA916-25B6-44B8-A436-33BF0A8A7D25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team", "Team\Team.csproj", "{C452BBCA-5CF6-460B-817E-0E84FFBADA09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Team", "Team\03Team.csproj", "{C452BBCA-5CF6-460B-817E-0E84FFBADA09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit++", "Bit++\Bit++.csproj", "{6C69B065-BFD3-4CA4-A543-41B51E863E01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Bit++", "Bit++\04Bit++.csproj", "{6C69B065-BFD3-4CA4-A543-41B51E863E01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatreSquare", "TheatreSquare\TheatreSquare.csproj", "{FBA2292B-2D9B-419F-B567-AD08CCE9BFE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05TheatreSquare", "TheatreSquare\05TheatreSquare.csproj", "{FBA2292B-2D9B-419F-B567-AD08CCE9BFE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextRound", "NextRound\NextRound.csproj", "{8835B3CE-D17F-448A-B060-45CC060BE32A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06NextRound", "NextRound\06NextRound.csproj", "{8835B3CE-D17F-448A-B060-45CC060BE32A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoPiling", "DominoPiling\DominoPiling.csproj", "{3BF2BB45-6117-4E08-B8CB-19869C11D7E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07DominoPiling", "DominoPiling\07DominoPiling.csproj", "{3BF2BB45-6117-4E08-B8CB-19869C11D7E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulMatrix", "BeautifulMatrix\BeautifulMatrix.csproj", "{9B291CFB-A3C3-4720-BB74-7132295FC56E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08BeautifulMatrix", "BeautifulMatrix\08BeautifulMatrix.csproj", "{9B291CFB-A3C3-4720-BB74-7132295FC56E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetyaAndStrings", "PetyaAndStrings\PetyaAndStrings.csproj", "{7445E03A-10D8-4908-9748-2018ECAF5361}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09PetyaAndStrings", "PetyaAndStrings\09PetyaAndStrings.csproj", "{7445E03A-10D8-4908-9748-2018ECAF5361}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulMaths", "HelpfulMaths\HelpfulMaths.csproj", "{FF5D5398-E7AC-4838-9AAE-93206D792B32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10HelpfulMaths", "HelpfulMaths\10HelpfulMaths.csproj", "{FF5D5398-E7AC-4838-9AAE-93206D792B32}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11WordCapitalization", "11WordCapitalization\11WordCapitalization.csproj", "{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}"
 EndProject
