@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10HelpfulMaths", "HelpfulMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11WordCapitalization", "11WordCapitalization\11WordCapitalization.csproj", "{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12BoyOrGirl", "12BoyOrGirl\12BoyOrGirl.csproj", "{02936194-D429-4BF3-BCE9-000550A244A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13BearAndBigBrother", "13BearAndBigBrother\13BearAndBigBrother.csproj", "{69574773-AE19-4C47-A26E-5ABBF0735DFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91EE81CF-91A9-44DF-8755-0AC5FEF0F17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02936194-D429-4BF3-BCE9-000550A244A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02936194-D429-4BF3-BCE9-000550A244A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02936194-D429-4BF3-BCE9-000550A244A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02936194-D429-4BF3-BCE9-000550A244A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69574773-AE19-4C47-A26E-5ABBF0735DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69574773-AE19-4C47-A26E-5ABBF0735DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69574773-AE19-4C47-A26E-5ABBF0735DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69574773-AE19-4C47-A26E-5ABBF0735DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
