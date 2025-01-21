@@ -51,11 +51,14 @@ namespace ADONetExample
                 sqlConnection.Open();
             }
 
-            foreach (var parameter in parameters)
+            if (parameters != null)
             {
-                sqlCommand.Parameters.Add(new SqlParameter(parameter.Key, parameter.Value));
+                foreach (var parameter in parameters)
+                {
+                    sqlCommand.Parameters.Add(new SqlParameter(parameter.Key, parameter.Value));
+                }
             }
-
+          
             return sqlCommand;
         } 
 
