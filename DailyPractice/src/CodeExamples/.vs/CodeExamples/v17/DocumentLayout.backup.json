@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B659757-F5FB-4F9D-9ED7-2307114419FD}|StudentGradeCalculator\\StudentGradeCalculator.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\studentgradecalculator\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B659757-F5FB-4F9D-9ED7-2307114419FD}|StudentGradeCalculator\\StudentGradeCalculator.csproj|solutionrelative:studentgradecalculator\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B659757-F5FB-4F9D-9ED7-2307114419FD}|StudentGradeCalculator\\StudentGradeCalculator.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\studentgradecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B659757-F5FB-4F9D-9ED7-2307114419FD}|StudentGradeCalculator\\StudentGradeCalculator.csproj|solutionrelative:studentgradecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\entityframeworkexample\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\entityframeworkexample\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\entityframeworkexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\entityframeworkexample\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\entityframeworkexample\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +34,89 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StudentGradeCalculator\\Program.cs",
-              "RelativeDocumentMoniker": "StudentGradeCalculator\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StudentGradeCalculator\\Program.cs",
-              "RelativeToolTip": "StudentGradeCalculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Title": "TrainingDbContext.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\TrainingDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\TrainingDbContext.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\TrainingDbContext.cs",
+              "RelativeToolTip": "EntityFrameworkExample\\TrainingDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:50:17.478Z",
+              "WhenOpened": "2025-01-21T11:38:43.334Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkExample\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:23:52.861Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\Course.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\Course.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\Course.cs",
+              "RelativeToolTip": "EntityFrameworkExample\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:34:25.605Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\Topic.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\Topic.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\Topic.cs",
+              "RelativeToolTip": "EntityFrameworkExample\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:59:02.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\Student.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\Student.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\Student.cs*",
+              "RelativeToolTip": "EntityFrameworkExample\\Student.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:33:47.872Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseStudent.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\CourseStudent.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\CourseStudent.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\CourseStudent.cs",
+              "RelativeToolTip": "EntityFrameworkExample\\CourseStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:34:56.81Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -41,19 +127,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StudentGradeCalculator\\Student.cs",
-              "RelativeDocumentMoniker": "StudentGradeCalculator\\Student.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\StudentGradeCalculator\\Student.cs",
-              "RelativeToolTip": "StudentGradeCalculator\\Student.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwBcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:53:08.997Z",
-              "EditorCaption": ""
             }
           ]
         }
