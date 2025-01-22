@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F006C8B3-C1A2-439D-B24F-C138B7440F92}|DirectorySystemExample\\DirectorySystemExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\directorysystemexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F006C8B3-C1A2-439D-B24F-C138B7440F92}|DirectorySystemExample\\DirectorySystemExample.csproj|solutionrelative:directorysystemexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\entityframeworkexample\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD7966-9BBA-4E41-B560-A47FE103D818}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\DirectorySystemExample\\Program.cs",
-              "RelativeDocumentMoniker": "DirectorySystemExample\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\DirectorySystemExample\\Program.cs*",
-              "RelativeToolTip": "DirectorySystemExample\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Title": "TrainingDbContext.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\TrainingDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\TrainingDbContext.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\EntityFrameworkExample\\TrainingDbContext.cs",
+              "RelativeToolTip": "EntityFrameworkExample\\TrainingDbContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T10:03:50.053Z",
+              "WhenOpened": "2025-01-22T11:00:36.859Z",
               "EditorCaption": ""
             }
           ]

@@ -47,13 +47,35 @@ namespace EntityFrameworkExample
             modelBuilder.Entity<CourseStudent>()
                 .HasOne(x => x.Course)
                 .WithMany(y => y.CourseStudents)
-                .HasForeignKey(z => z.Course);
+                .HasForeignKey(z => z.CourseId);
             
             modelBuilder.Entity<CourseStudent>()
                 .HasOne(x => x.Student)
                 .WithMany(y => y.CourseStudents)
-                .HasForeignKey(z => z.Student);
-                
+                .HasForeignKey(z => z.StudentId);
+
+            modelBuilder.Entity<Course>().HasData
+                ([
+                    new Course 
+                    {
+                        Id = -1,
+                        Title = "ABC Course", 
+                        Fees = 9999, 
+                        ClassStartDate = new DateTime(2025,2,2), 
+                        IsActive = true,
+                        CourseStudents = new List<CourseStudent>()
+
+                    }, 
+                    new Course
+                    {
+                        Id = -2,
+                        Title = "xyz Course",
+                        Fees = 333,
+                        ClassStartDate = new DateTime(2025,2,2),
+                        IsActive = true,
+                        CourseStudents = new List<CourseStudent>()
+                    }
+                ]);
 
             base.OnModelCreating(modelBuilder);
         }
