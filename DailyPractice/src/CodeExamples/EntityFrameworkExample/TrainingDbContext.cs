@@ -37,6 +37,24 @@ namespace EntityFrameworkExample
             //Composit Primary Key
             modelBuilder.Entity<CourseStudent>().HasKey(x => new { x.CourseId, x.StudentId });
 
+            //One To many Relationship
+            modelBuilder.Entity<Course>()
+                .HasMany(x => x.Topic)
+                .WithOne(y => y.Course)
+                .HasForeignKey(z  => z.CourseId);
+
+            //Many to Many relationship
+            modelBuilder.Entity<CourseStudent>()
+                .HasOne(x => x.Course)
+                .WithMany(y => y.CourseStudents)
+                .HasForeignKey(z => z.Course);
+            
+            modelBuilder.Entity<CourseStudent>()
+                .HasOne(x => x.Student)
+                .WithMany(y => y.CourseStudents)
+                .HasForeignKey(z => z.Student);
+                
+
             base.OnModelCreating(modelBuilder);
         }
         public DbSet<Course> Courses {  get; set; }
