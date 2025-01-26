@@ -50,7 +50,7 @@ namespace EntityFrameworkExample
                 .HasForeignKey(z => z.CourseId);
             
             modelBuilder.Entity<CourseStudent>()
-                .HasOne(x => x.Student)
+                .HasOne(x => x.Student) 
                 .WithMany(y => y.CourseStudents)
                 .HasForeignKey(z => z.StudentId);
 
