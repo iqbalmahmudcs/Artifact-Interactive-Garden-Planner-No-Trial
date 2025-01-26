@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemExample", "FileSy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectorySystemExample", "DirectorySystemExample\DirectorySystemExample.csproj", "{F006C8B3-C1A2-439D-B24F-C138B7440F92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportantInterfaces", "ImportantInterfaces\ImportantInterfaces.csproj", "{F90E65D8-8CCC-4A8B-AA1B-F19D77A65D2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{F006C8B3-C1A2-439D-B24F-C138B7440F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F006C8B3-C1A2-439D-B24F-C138B7440F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F006C8B3-C1A2-439D-B24F-C138B7440F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90E65D8-8CCC-4A8B-AA1B-F19D77A65D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90E65D8-8CCC-4A8B-AA1B-F19D77A65D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90E65D8-8CCC-4A8B-AA1B-F19D77A65D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90E65D8-8CCC-4A8B-AA1B-F19D77A65D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
