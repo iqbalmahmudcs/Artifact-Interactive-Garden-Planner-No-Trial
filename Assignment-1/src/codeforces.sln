@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16Elephant", "16Elephant\16
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17SoldierAndBananas", "17SoldierAndBananas\17SoldierAndBananas.csproj", "{6B3B839E-4EBD-4DE1-8A7A-870C5436169E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18Word", "18Word\18Word.csproj", "{E65F7098-A09B-46DA-A1F4-1F337BF84CF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{6B3B839E-4EBD-4DE1-8A7A-870C5436169E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B3B839E-4EBD-4DE1-8A7A-870C5436169E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B3B839E-4EBD-4DE1-8A7A-870C5436169E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65F7098-A09B-46DA-A1F4-1F337BF84CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65F7098-A09B-46DA-A1F4-1F337BF84CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65F7098-A09B-46DA-A1F4-1F337BF84CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65F7098-A09B-46DA-A1F4-1F337BF84CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
