@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace ImportantInterfaces
 {
-    public class Product
+    public class Product : ICloneable
     {
         public string Name { get; set; }
         public int Price { get; set; }
+
+        public object Clone()
+        {
+            return new Product { Name = Name, Price = Price };
+        }
 
     }
 }
