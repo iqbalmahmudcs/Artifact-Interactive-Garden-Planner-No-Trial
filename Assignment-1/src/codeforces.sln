@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18Word", "18Word\18Word.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19WrongSubtraction", "WrongSubtraction\19WrongSubtraction.csproj", "{DB68B80C-CDC4-4CDC-97CA-F6D575984766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20Young Physicist", "20Young Physicist\20Young Physicist.csproj", "{32BC197E-85A6-4373-8CC4-1AAEED4693CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{DB68B80C-CDC4-4CDC-97CA-F6D575984766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB68B80C-CDC4-4CDC-97CA-F6D575984766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB68B80C-CDC4-4CDC-97CA-F6D575984766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BC197E-85A6-4373-8CC4-1AAEED4693CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BC197E-85A6-4373-8CC4-1AAEED4693CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BC197E-85A6-4373-8CC4-1AAEED4693CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BC197E-85A6-4373-8CC4-1AAEED4693CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
