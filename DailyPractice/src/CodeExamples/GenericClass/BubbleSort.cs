@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace GenericClass
 {
-    public class BubbleSort<T> where T : INumber<T>
+    public class BubbleSort<T> 
+        where T : INumber<T>
     {
         public T[] Sort(T[] arr)
         {

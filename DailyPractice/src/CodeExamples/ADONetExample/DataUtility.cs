@@ -14,11 +14,13 @@ namespace ADONetExample
         {
             _connectionString = connectionString;
         }
-        public void ExecuteSql(string sql, Dictionary<string, object> parameters)
+        public virtual int ExecuteSql(string sql, Dictionary<string, object> parameters)
         {
             using var sqlCommand = GetCommand(sql, parameters);
 
             int effected = sqlCommand.ExecuteNonQuery();
+
+            return effected;
 
         }
         public List<Dictionary<string, object>> GetData(string sql, Dictionary<string, object> parameters)
