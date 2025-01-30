@@ -12,7 +12,15 @@ Task 1:
 using System.Text;
 using System.Xml;
 
-string fileLocation = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName, "RandomTextFile.txt");
+
+
+//var fileLocation = Directory.GetCurrentDirectory();
+//DirectoryInfo directoryInfo = new DirectoryInfo(fileLocation);
+//fileLocation = directoryInfo.Parent.Parent.Parent.Parent.Parent.Parent.FullName + "5GbRandomTextFile.txt";
+
+var directoryInfo = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.Parent.FullName;
+var fileLocation = Path.Combine(directoryInfo, "5GB_RandomTextFile.txt");
+
 
 long maxFileSize = 5L * 1024 * 1024 * 1024;
 long currentFileSize = 0;
@@ -33,16 +41,12 @@ using(StreamWriter fileWriter = new StreamWriter(fileStream, Encoding.UTF8))
         //  if (currentFileSize % (1024 * 1024 * 100) == 0)
         //Console.WriteLine($"{currentFileSize / (1024 * 1024)} MB Written Succesfully.");
     }
-
 }
 
-Console.WriteLine();
+Console.WriteLine($"{maxFileSize / (1024 * 1024 * 1024)} GB File Generated at {fileLocation}");
 
 
-//for (int i = 0; i < 10; i++)
-//    Console.WriteLine(GetRandomChar());
-
-static char GetRandomChar(Random random)
+char GetRandomChar(Random random)
 {
     return (char)random.Next('A', 'Z');
 }
