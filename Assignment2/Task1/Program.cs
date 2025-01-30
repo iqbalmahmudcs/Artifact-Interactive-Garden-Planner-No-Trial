@@ -1,5 +1,5 @@
 ﻿///*
-//Task 1: 
+//Tasks: 
 //	=> Generating a 5GB Random Text File (33 Marks) 		
 //	=> Generate a text file of exactly 5GB.	
 //	=> Write random characters byte by byte (a method is already provided for this).	
