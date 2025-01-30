@@ -9,7 +9,7 @@
 //	=> If the file size is not exactly 5GB, you get zero marks.	
 //*/
 
-var directoryInformation = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName;
+var directoryInformation = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.Parent.FullName;
 var fileLocation = Path.Combine(directoryInformation, "RandomTextFile.txt");
 
 long maximumFileSize = 5L * 1024 * 1024 * 1024;
