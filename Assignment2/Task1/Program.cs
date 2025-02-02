@@ -1,15 +1,15 @@
-﻿///*
-//Tasks: 
-//	=> Generating a 5GB Random Text File (33 Marks) 		
-//	=> Generate a text file of exactly 5GB.	
-//	=> Write random characters byte by byte (a method is already provided for this).	
-//	=> Calculate the exact number of characters needed to reach 5GB.	
-//	=> The generated file must be placed outside the project folder (alongside the solution file).	
-//	=> Do not commit this file in the repository.	
-//	=> If the file size is not exactly 5GB, you get zero marks.	
-//*/
+﻿/*
+Tasks: 
+	=> Generating a 5GB Random Text File (33 Marks) 		
+	=> Generate a text file of exactly 5GB.	
+	=> Write random characters byte by byte (a method is already provided for this).	
+	=> Calculate the exact number of characters needed to reach 5GB.	
+	=> The generated file must be placed outside the project folder (alongside the solution file).	
+	=> Do not commit this file in the repository.	
+	=> If the file size is not exactly 5GB, you get zero marks.	
+*/
 
-var directoryInformation = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.Parent.FullName;
+var directoryInformation = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName;
 var fileLocation = Path.Combine(directoryInformation, "RandomTextFile.txt");
 
 long maximumFileSize = 5L * 1024 * 1024 * 1024;
