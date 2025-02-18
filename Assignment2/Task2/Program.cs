@@ -18,7 +18,7 @@ if (!File.Exists(filePath))
     return;
 }
 
-var folderLocation = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
+var folderLocation = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName;
 var chunkFolder = Path.Combine(folderLocation, "Chunks");
 Directory.CreateDirectory(chunkFolder);
 
