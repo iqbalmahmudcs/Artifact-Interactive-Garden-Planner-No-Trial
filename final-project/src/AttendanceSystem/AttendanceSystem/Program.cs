@@ -1,4 +1,12 @@
 ﻿using AttendanceSystem;
 
-var connectionString = DataUtility.GetConnectionString();
-Console.WriteLine($"Database Connection String: {connectionString}");
+Console.Write("Connection is checking");
+
+for(int i = 0; i < 5; i++)
+{
+    Console.Write(".");
+}
+Console.WriteLine("\n");
+
+DataUtility.TestDatabaseConnection();
+

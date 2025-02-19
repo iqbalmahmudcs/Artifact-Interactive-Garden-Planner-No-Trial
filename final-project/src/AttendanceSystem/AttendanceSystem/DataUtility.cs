@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 
 namespace AttendanceSystem
@@ -15,5 +16,24 @@ namespace AttendanceSystem
 
             return config.GetConnectionString("DefaultConnection");
         }
+
+        public static void TestDatabaseConnection()
+        {
+            var connectionString = GetConnectionString();
+
+            try
+            {
+                using(SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    connection.Open();
+                    Console.WriteLine("Succesfully Connected!");
+                }
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine("Conncetion Failed!");
+            }
+        }
+
     }
 }
