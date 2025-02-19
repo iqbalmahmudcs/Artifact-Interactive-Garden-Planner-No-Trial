@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using AttendanceSystem;
+
+var connectionString = DataUtility.GetConnectionString();
+Console.WriteLine($"Database Connection String: {connectionString}");
