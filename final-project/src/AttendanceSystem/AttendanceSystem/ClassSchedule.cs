@@ -23,9 +23,16 @@ namespace AttendanceSystem
         public Course Course { get; set; }
 
         [Required]
+        public int TeacherId { get; set; }
+        [ForeignKey("TeacherId")]
+        public Teacher Teacher { get; set; }
+
+        [Required]
         public string Day { get; set; }
         [Required]
         public TimeSpan StartTime { get; set; }
+        [Required]
+        public TimeSpan EndTime { get; set; }
         [Required]
         public int TotalClasses { get; set; }
 

@@ -25,9 +25,9 @@ namespace AttendanceSystem
         [ForeignKey("TeacherId")]
         public Teacher? Teacher { get; set; }
 
-        public List<Student> Studdents { get; set; } = new List<Student>();        //Enrolled Students in a course
+        public ICollection<StudentCourse> EnrolledStudents { get; set; } = new List<StudentCourse>();        //Enrolled Students in course ==> Many to many
         
-        public List<ClassSchedule> Schedules { get; set; } = new List<ClassSchedule>();
+        public ICollection<ClassSchedule> Schedules { get; set; } = new List<ClassSchedule>();
 
     }
 }

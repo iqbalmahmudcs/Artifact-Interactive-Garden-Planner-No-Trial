@@ -22,6 +22,6 @@ namespace AttendanceSystem
         [Required]
         public string Password { get; set; }
 
-        public List<Course> EnrolledCorses { get; set; } = new List<Course>();      // a student can enroll in multiple courses ==> One to Many
+        public ICollection<StudentCourse> EnrolledCorses { get; set; } = new List<StudentCourse>();      // a student can enroll in multiple courses ==> One to Many
     }
 }
