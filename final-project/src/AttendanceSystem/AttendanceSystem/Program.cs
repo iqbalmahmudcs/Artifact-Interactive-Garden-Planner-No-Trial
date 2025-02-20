@@ -1,12 +1,28 @@
 ﻿using AttendanceSystem;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using System;
 
-Console.Write("Connection is checking");
+//Load Configuration => appsetting.json
+var configuration = new ConfigurationBuilder()
+    .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .Build();
 
-for(int i = 0; i < 5; i++)
+//Dependency Injection
+var serviceProvider = new ServiceCollection()
+    .AddDbContext<AppDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")))
+    .BuildServiceProvider();
+
+
+//Database Connectivity Checking
+using (var context = serviceProvider.GetRequiredService<AppDbContext>())
 {
-    Console.Write(".");
+    if (context.Database.CanConnect())
+        Console.WriteLine("Successfully connected with Database!");
+    else
+        Console.WriteLine("Failed to connect with Database!");
 }
-Console.WriteLine("\n");
 
-DataUtility.TestDatabaseConnection();
 
