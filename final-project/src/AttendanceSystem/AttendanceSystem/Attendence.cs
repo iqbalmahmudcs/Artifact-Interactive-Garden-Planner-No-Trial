@@ -19,11 +19,10 @@ namespace AttendanceSystem
 
         [Required]
         public int StudentId { get; set; }
-        [ForeignKey("StudentId")]
+        public Student Student { get; set; }
 
         [Required]
         public int CourseId { get; set; }
-        [ForeignKey("CourseId")]
         public Course Course { get; set; }
 
         [Required]

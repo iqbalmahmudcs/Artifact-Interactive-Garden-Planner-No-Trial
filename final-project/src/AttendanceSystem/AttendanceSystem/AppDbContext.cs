@@ -9,7 +9,8 @@ namespace AttendanceSystem
 {
     public class AppDbContext : DbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+            : base(options) { }
 
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Teacher> Teachers { get; set; }
@@ -23,17 +24,20 @@ namespace AttendanceSystem
         {
             base.OnModelCreating(modelBuilder);
 
-            //many to many relationship(Students & Courses)
+            // Many-to-many relationship (Students & Courses)
             modelBuilder.Entity<StudentCourse>()
-                .HasKey(sc => new { sc.StudentId, sc.CourseId });    //Composit Primary Key
+                .HasKey(sc => new { sc.StudentId, sc.CourseId });
+
             modelBuilder.Entity<StudentCourse>()
                 .HasOne(sc => sc.Student)
-                .WithMany(s => s.EnrolledCorses)
+                .WithMany(s => s.EnrolledCourse)
                 .HasForeignKey(sc => sc.StudentId);
+
             modelBuilder.Entity<StudentCourse>()
                 .HasOne(sc => sc.Course)
                 .WithMany(c => c.EnrolledStudents)
                 .HasForeignKey(sc => sc.CourseId);
         }
     }
+
 }
