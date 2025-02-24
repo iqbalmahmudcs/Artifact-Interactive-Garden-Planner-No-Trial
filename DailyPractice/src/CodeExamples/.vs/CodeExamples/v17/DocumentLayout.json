@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D115F057-253D-470A-8769-50D9EB633A28}|Func\u0026Action\\Func\u0026Action.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\func\u0026action\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D115F057-253D-470A-8769-50D9EB633A28}|Func\u0026Action\\Func\u0026Action.csproj|solutionrelative:func\u0026action\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\exam-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|solutionrelative:exam-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D115F057-253D-470A-8769-50D9EB633A28}|Func\u0026Action\\Func\u0026Action.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\func\u0026action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D115F057-253D-470A-8769-50D9EB633A28}|Func\u0026Action\\Func\u0026Action.csproj|solutionrelative:func\u0026action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\exam-2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|solutionrelative:exam-2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D115F057-253D-470A-8769-50D9EB633A28}|Func\u0026Action\\FunctionAction.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\func\u0026action\\functionaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D115F057-253D-470A-8769-50D9EB633A28}|Func\u0026Action\\FunctionAction.csproj|solutionrelative:func\u0026action\\functionaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\exam-2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|solutionrelative:exam-2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\exam-2\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|solutionrelative:exam-2\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|d:\\devskill\\c# professional programming\\coding\\csharpb19-iqbalhassanmahmud\\dailypractice\\src\\codeexamples\\exam-2\\daysofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A38CD0E-742F-4516-BA9D-238C7C57E3B2}|Exam-2\\Exam-2.csproj|solutionrelative:exam-2\\daysofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +30,76 @@
       "DocumentGroups": [
         {
           "DockedHeight": 477,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\Program.cs",
+              "RelativeDocumentMoniker": "Exam-2\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\Program.cs",
+              "RelativeToolTip": "Exam-2\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:17:34.113Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\Student.cs",
+              "RelativeDocumentMoniker": "Exam-2\\Student.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\Student.cs",
+              "RelativeToolTip": "Exam-2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:11:03.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FunctionAction.csproj",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Func\u0026Action\\FunctionAction.csproj",
-              "RelativeDocumentMoniker": "Func\u0026Action\\FunctionAction.csproj",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Func\u0026Action\\FunctionAction.csproj",
-              "RelativeToolTip": "Func\u0026Action\\FunctionAction.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-28T12:35:18.809Z",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Exam-2\\Rectangle.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\Rectangle.cs",
+              "RelativeToolTip": "Exam-2\\Rectangle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:21:48.032Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DaysOfWeek.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\DaysOfWeek.cs",
+              "RelativeDocumentMoniker": "Exam-2\\DaysOfWeek.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\DaysOfWeek.cs",
+              "RelativeToolTip": "Exam-2\\DaysOfWeek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:04:49.722Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrafficLight.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\TrafficLight.cs",
+              "RelativeDocumentMoniker": "Exam-2\\TrafficLight.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Exam-2\\TrafficLight.cs",
+              "RelativeToolTip": "Exam-2\\TrafficLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:10:10.839Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -44,32 +109,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BubbleSort.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Func\u0026Action\\BubbleSort.cs",
-              "RelativeDocumentMoniker": "Func\u0026Action\\BubbleSort.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Func\u0026Action\\BubbleSort.cs",
-              "RelativeToolTip": "Func\u0026Action\\BubbleSort.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:35:37.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Func\u0026Action\\Program.cs",
-              "RelativeDocumentMoniker": "Func\u0026Action\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\csharpb19-IqbalHassanMahmud\\DailyPractice\\src\\CodeExamples\\Func\u0026Action\\Program.cs",
-              "RelativeToolTip": "Func\u0026Action\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:35:08.135Z",
-              "EditorCaption": ""
             }
           ]
         }
