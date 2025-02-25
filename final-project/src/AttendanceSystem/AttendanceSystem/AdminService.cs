@@ -8,72 +8,40 @@ using System.Threading.Tasks;
 
 namespace AttendanceSystem
 {
-    public class AdminService
+    public class AdminService : BaseService<Admin>
     {
         private readonly AppDbContext _context;
 
-        public AdminService(AppDbContext context)
+        public AdminService(AppDbContext context) : base(context)
         {
             _context = context;
         }
 
         public void AddAdmin(string name, string username, string password)
         {
-            if(name != null && username != null && password != null)
-            {
-                var admin = new Admin { Name = name, UserName = username, Password = password };
-                _context.Admins.Add(admin);
-                _context.SaveChanges();
-                Console.WriteLine($"Admin({name}) added successfully!");
-            }
-            else
-            {
-                Console.WriteLine("Null field cannot be allowed!");
-            }
-
+            var admin = new Admin { Name = name, UserName = username, Password = password };
+            _context.Admins.Add(admin);
+            _context.SaveChanges();
         }
 
-        public List<Admin> GetAllAdmins()
-        {
-            return _context.Admins.ToList();
-        }
+        public List<Admin> GetAllAdmins() => _context.Admins.ToList();  // Use _context directly
+        public Admin GetAdminById(int id) => _context.Admins.FirstOrDefault(a => a.Id == id);  // Use _context directly
 
-        public Admin GetAdminById(int id)
+        public void UpdateAdmin(Admin admin)
         {
-            return _context.Admins.Find(id);
-        }
-
-        public void UpdateAdmin(int id, string name, string username, string password)
-        {
-            var admin = _context.Admins.Find(id);
-            if (admin != null)
-            {
-                admin.Name = name;
-                admin.UserName = username;
-                admin.Password = password;
-                _context.SaveChanges();
-                Console.WriteLine($"Admin({admin.Name}) updated successfully!");
-            }
-            else
-            {
-                Console.WriteLine($"Admin({name}) not found!");
-            }
+            _context.Admins.Update(admin);
+            _context.SaveChanges();
         }
 
         public void DeleteAdmin(int id)
         {
-            var admin = _context.Admins.Find(id);
+            var admin = _context.Admins.FirstOrDefault(a => a.Id == id);
             if (admin != null)
             {
-                Console.Write($"Admin({admin.Name})");
                 _context.Admins.Remove(admin);
                 _context.SaveChanges();
-                Console.WriteLine(" deleted successfully!");
-            }
-            else
-            {
-                Console.WriteLine($"Admin(ID: {id}) not found!");
             }
         }
     }
+
 }

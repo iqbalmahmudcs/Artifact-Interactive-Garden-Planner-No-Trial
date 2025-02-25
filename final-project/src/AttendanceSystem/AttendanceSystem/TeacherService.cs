@@ -8,72 +8,22 @@ using System.Threading.Tasks;
 
 namespace AttendanceSystem
 {
-    public class TeacherService
+    public class TeacherService : BaseService<Teacher>
     {
-        private readonly AppDbContext _context;
-
-        public TeacherService(AppDbContext context)
-        {
-            _context = context;
-        }
+        public TeacherService(AppDbContext context) : base(context) { }
 
         public void AddTeacher(string name, string username, string password)
         {
-            if (name != null && username != null && password != null)
-            {
-                var teacher = new Teacher { Name = name, UserName = username, Password = password };
-                _context.Teachers.Add(teacher);
-                _context.SaveChanges();
-                Console.WriteLine($"Teacher({name}) added successfully!");
-            }
-            else
-            {
-                Console.WriteLine("Null field cannot be allowed!");
-            }
-
+            var teacher = new Teacher { Name = name, UserName = username, Password = password };
+            Add(teacher);  // Use the inherited method from BaseService
         }
 
-        public List<Teacher> GetAllTeacher()
-        {
-            return _context.Teachers.ToList();
-        }
+        public List<Teacher> GetAllTeachers() => GetAll();  // Use the inherited method from BaseService
 
-        public Teacher GetTeacherById(int id)
-        {
-            return _context.Teachers.Find(id);
-        }
+        public Teacher GetTeacherById(int id) => GetById(id);  // Use the inherited method from BaseService
 
-        public void UpdateTeacher(int id, string name, string username, string password)
-        {
-            var teacher = _context.Teachers.Find(id);
-            if (teacher != null)
-            {
-                teacher.Name = name;
-                teacher.UserName = username;
-                teacher.Password = password;
-                _context.SaveChanges();
-                Console.WriteLine($"Teacher({teacher.Name}) updated successfully!");
-            }
-            else
-            {
-                Console.WriteLine($"Teacher({name}) not found!");
-            }
-        }
+        public void UpdateTeacher(Teacher teacher) => Update(teacher);  // Use the inherited method from BaseService
 
-        public void DeleteTeacher(int id)
-        {
-            var teacher = _context.Teachers.Find(id);
-            if (teacher != null)
-            {
-                Console.Write($"Teacher({teacher.Name})");
-                _context.Teachers.Remove(teacher);
-                _context.SaveChanges();
-                Console.WriteLine(" deleted successfully!");
-            }
-            else
-            {
-                Console.WriteLine($"Teacher(ID: {id}) not found!");
-            }
-        }
+        public void DeleteTeacher(int id) => Delete(id);  // Use the inherited method from BaseService
     }
 }
