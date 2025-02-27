@@ -6,10 +6,17 @@ using System.Threading.Tasks;
 
 namespace Task1
 {
-    public class TreeNode
+    public class TreeNode<T>
     {
-        public object? NodeValue { get; set; }
-        public TreeNode? LeftChild { get; set; }
-        public TreeNode? RightChild { get; set; }
+        public T? NodeValue { get; set; }
+        public TreeNode<T>? LeftChild { get; set; }
+        public TreeNode<T>? RightChild { get; set; }
+
+        public TreeNode(T inputValue)
+        {
+            NodeValue = inputValue;
+            LeftChild = null;
+            RightChild = null;
+        }
     }
 }
