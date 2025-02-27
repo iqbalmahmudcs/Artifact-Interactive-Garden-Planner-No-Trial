@@ -19,10 +19,6 @@ var serviceProvider = new ServiceCollection()
     .AddScoped<CourseService>()
     .BuildServiceProvider();
 
-
-
-
-// Create a Scope to Retrieve Services
 // Create a Scope to Retrieve Services
 using (var scope = serviceProvider.CreateScope())
 {
@@ -34,21 +30,21 @@ using (var scope = serviceProvider.CreateScope())
     var studentService = services.GetRequiredService<StudentService>();
     var courseService = services.GetRequiredService<CourseService>();
 
-    // ✅ Check Database Connection
+    // Check Database Connection
     var context = services.GetRequiredService<AppDbContext>();  // No 'using' block here
     if (context.Database.CanConnect())
         Console.WriteLine("Successfully connected with Database!");
     else
         Console.WriteLine("Failed to connect with Database!");
 
-    // ✅ CRUD Operations Testing
-    // 🔹 Add Data
+    //CRUD Operations Testing
+    //Add Data
     adminService.AddAdmin("Admin1", "admin1", "pass123");
     teacherService.AddTeacher("Teacher1", "teacher1", "pass123");
     studentService.AddStudent("Student1", "student1", "pass123");
     courseService.AddCourse("C# Fundamentals", 5000);
 
-    // 🔹 Retrieve All Data
+    //Retrieve All Data
     Console.WriteLine("\nAdmins:");
     foreach (var admin in adminService.GetAllAdmins())
         Console.WriteLine($"ID: {admin.Id}, Name: {admin.Name}");
@@ -65,13 +61,14 @@ using (var scope = serviceProvider.CreateScope())
     foreach (var course in courseService.GetAllCourses())
         Console.WriteLine($"ID: {course.Id}, Name: {course.Name}, Fees: {course.Fees}");
 
-    // 🔹 Update Data
-    adminService.UpdateAdmin(new Admin { Id = 1, Name = "UpdatedAdmin1", UserName = "updatedAdmin1", Password = "newPass123" });
+    //Update Data
+    //adminService.UpdateAdmin(1, "UpdatedAdmin1", "updatedAdmin1", "newPass123");
 
-    // 🔹 Retrieve By ID
-    var updatedAdmin = adminService.GetAdminById(1);
+
+    //Retrieve By ID
+    var updatedAdmin = adminService.GetAdminById(3);
     Console.WriteLine($"\nUpdated Admin: ID: {updatedAdmin.Id}, Name: {updatedAdmin.Name}");
 
-    // 🔹 Delete Data
-    adminService.DeleteAdmin(1);
+    //Delete Data
+    //adminService.DeleteAdmin(2);
 }

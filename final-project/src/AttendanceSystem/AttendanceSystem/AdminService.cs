@@ -27,11 +27,18 @@ namespace AttendanceSystem
         public List<Admin> GetAllAdmins() => _context.Admins.ToList();  // Use _context directly
         public Admin GetAdminById(int id) => _context.Admins.FirstOrDefault(a => a.Id == id);  // Use _context directly
 
-        public void UpdateAdmin(Admin admin)
+        public void UpdateAdmin(int id, string name, string username, string password)
         {
-            _context.Admins.Update(admin);
-            _context.SaveChanges();
+            var existingAdmin = _context.Admins.FirstOrDefault(a => a.Id == id);
+            if (existingAdmin != null)
+            {
+                existingAdmin.Name = name;
+                existingAdmin.UserName = username;
+                existingAdmin.Password = password;
+                _context.SaveChanges(); // Save after modifying the existing object
+            }
         }
+
 
         public void DeleteAdmin(int id)
         {

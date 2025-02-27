@@ -5,23 +5,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*
-* Student attends courses, marks attendance.
-*/
-
 namespace AttendanceSystem
 {
-    public class Student
+    public class User
     {
         [Key]
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
         [Required]
-        public string UserName { get; set; }
+        public string UseName { get; set; }
         [Required]
         public string Password { get; set; }
+        public UserRole Role { get; set; }
 
-        public ICollection<StudentCourse> EnrolledCourse { get; set; } = new List<StudentCourse>();
     }
 }

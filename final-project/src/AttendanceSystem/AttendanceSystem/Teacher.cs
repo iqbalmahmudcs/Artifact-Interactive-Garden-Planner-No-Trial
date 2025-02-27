@@ -22,6 +22,6 @@ namespace AttendanceSystem
         [Required]
         public string Password { get; set; }
 
-        public ICollection<Course> Courses { get; set; } = new List<Course>();    //a teacher can teach multiple courses ==> One to many
+        public ICollection<Course> Courses { get; set; } = new List<Course>(); 
     }
 }

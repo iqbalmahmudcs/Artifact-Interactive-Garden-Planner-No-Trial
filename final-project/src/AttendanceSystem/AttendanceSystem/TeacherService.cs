@@ -15,15 +15,15 @@ namespace AttendanceSystem
         public void AddTeacher(string name, string username, string password)
         {
             var teacher = new Teacher { Name = name, UserName = username, Password = password };
-            Add(teacher);  // Use the inherited method from BaseService
+            Add(teacher);
         }
 
-        public List<Teacher> GetAllTeachers() => GetAll();  // Use the inherited method from BaseService
+        public List<Teacher> GetAllTeachers() => GetAll();
 
-        public Teacher GetTeacherById(int id) => GetById(id);  // Use the inherited method from BaseService
+        public Teacher GetTeacherById(int id) => GetById(id);
 
-        public void UpdateTeacher(Teacher teacher) => Update(teacher);  // Use the inherited method from BaseService
+        public void UpdateTeacher(Teacher teacher) => Update(teacher);
 
-        public void DeleteTeacher(int id) => Delete(id);  // Use the inherited method from BaseService
+        public void DeleteTeacher(int id) => Delete(id); 
     }
 }

@@ -19,15 +19,14 @@ namespace AttendanceSystem
         public void AddStudent(string name, string username, string password)
         {
             var student = new Student { Name = name, UserName = username, Password = password };
-            Add(student);  // Use the inherited method from BaseService
+            Add(student); 
         }
 
-        public List<Student> GetAllStudents() => GetAll();  // Use the inherited method from BaseService
+        public List<Student> GetAllStudents() => GetAll();  
+        public Student GetStudentById(int id) => GetById(id);  
 
-        public Student GetStudentById(int id) => GetById(id);  // Use the inherited method from BaseService
+        public void UpdateStudent(Student student) => Update(student);
 
-        public void UpdateStudent(Student student) => Update(student);  // Use the inherited method from BaseService
-
-        public void DeleteStudent(int id) => Delete(id);  // Use the inherited method from BaseService
+        public void DeleteStudent(int id) => Delete(id);  
     }
 }
