@@ -8,7 +8,7 @@ namespace Task2
 {
     public class Membership
     {
-        public Member SetMembershipStatus(string name, int status)
+        public Member SetMembershipStatus(string name, AccountStatus status)
         {
             return new Member() { Name = name, AccountStatus = status }; 
         }
