@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace AttendanceSystem
 {
-    public class Student
+    public class Student : User
     {
         [Key]
         public int Id { get; set; }

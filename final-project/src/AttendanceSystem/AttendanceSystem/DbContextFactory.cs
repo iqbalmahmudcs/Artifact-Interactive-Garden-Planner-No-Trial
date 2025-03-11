@@ -10,7 +10,7 @@ namespace AttendanceSystem
     {
         public AppDbContext CreateDbContext(string[] args)
         {
-            // Load configuration from appsettings.json
+            // Load configuration => appsettings.json
             IConfigurationRoot configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)

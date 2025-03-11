@@ -13,62 +13,167 @@ var configuration = new ConfigurationBuilder()
 // Dependency Injection
 var serviceProvider = new ServiceCollection()
     .AddDbContext<AppDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")))
+    .AddScoped<UserService>()
     .AddScoped<AdminService>()
     .AddScoped<TeacherService>()
     .AddScoped<StudentService>()
     .AddScoped<CourseService>()
     .BuildServiceProvider();
 
-// Create a Scope to Retrieve Services
 using (var scope = serviceProvider.CreateScope())
 {
     var services = scope.ServiceProvider;
 
-    // Get Services
+    var userService = services.GetRequiredService<UserService>();
     var adminService = services.GetRequiredService<AdminService>();
     var teacherService = services.GetRequiredService<TeacherService>();
     var studentService = services.GetRequiredService<StudentService>();
     var courseService = services.GetRequiredService<CourseService>();
+    var context = services.GetRequiredService<AppDbContext>();
 
-    // Check Database Connection
-    var context = services.GetRequiredService<AppDbContext>();  // No 'using' block here
+    // Check database connection
     if (context.Database.CanConnect())
-        Console.WriteLine("Successfully connected with Database!");
+        Console.WriteLine("Successfully connected to the Database!");
     else
-        Console.WriteLine("Failed to connect with Database!");
+    {
+        Console.WriteLine("Failed to connect to Database!");
+        return; // Exit if database is not connected
+    }
 
-    //CRUD Operations Testing
-    //Add Data
-    adminService.AddAdmin("Admin1", "admin1", "pass123");
-    teacherService.AddTeacher("Teacher1", "teacher1", "pass123");
-    studentService.AddStudent("Student1", "student1", "pass123");
-    courseService.AddCourse("C# Fundamentals", 5000);
+    Console.WriteLine("\nWelcome to the Attendance System!\n");
 
-    //Retrieve All Data
-    Console.WriteLine("\nAdmins:");
-    foreach (var admin in adminService.GetAllAdmins())
-        Console.WriteLine($"ID: {admin.Id}, Name: {admin.Name}");
+    // Step 1: Login
+    Console.Write("Username: ");
+    string username = Console.ReadLine();
+    Console.Write("Password: ");
+    string password = Console.ReadLine();
 
-    Console.WriteLine("\nTeachers:");
-    foreach (var teacher in teacherService.GetAllTeachers())
-        Console.WriteLine($"ID: {teacher.Id}, Name: {teacher.Name}");
-
-    Console.WriteLine("\nStudents:");
-    foreach (var student in studentService.GetAllStudents())
-        Console.WriteLine($"ID: {student.Id}, Name: {student.Name}");
-
-    Console.WriteLine("\nCourses:");
-    foreach (var course in courseService.GetAllCourses())
-        Console.WriteLine($"ID: {course.Id}, Name: {course.Name}, Fees: {course.Fees}");
-
-    //Update Data
-    //adminService.UpdateAdmin(1, "UpdatedAdmin1", "updatedAdmin1", "newPass123");
-
-
-    //Retrieve By ID
-    var updatedAdmin = adminService.GetAdminById(3);
-    Console.WriteLine($"\nUpdated Admin: ID: {updatedAdmin.Id}, Name: {updatedAdmin.Name}");
-
-    //Delete Data
-    //adminService.DeleteAdmin(2);
+    var user = userService.Login(username, password);
+    if (user != null)
+    {
+        Console.WriteLine($"\nLogin successful. Welcome, {user.Name}!\n");
+        GrantPermissions(user, adminService, teacherService, studentService, courseService);
+    }
+    else
+    {
+        Console.WriteLine("Invalid login credentials.");
+    }
 }
+
+    // Grants permissions based on user role.
+    static void GrantPermissions(User user, AdminService adminService, TeacherService teacherService, StudentService studentService, CourseService courseService)
+{
+    switch (user.Role)
+    {
+        case UserRole.Admin:
+            Console.WriteLine("You are logged in as an Admin.");
+            ShowAdminMenu(adminService);
+            break;
+        case UserRole.Teacher:
+            Console.WriteLine("You are logged in as a Teacher.");
+            ShowTeacherMenu(teacherService);
+            break;
+        case UserRole.Student:
+            Console.WriteLine("You are logged in as a Student.");
+            ShowStudentMenu(studentService);
+            break;
+        default:
+            Console.WriteLine("Invalid Role!");
+            break;
+    }
+}
+
+/// Admin Menu Options
+static void ShowAdminMenu(AdminService adminService)
+{
+    while (true)
+    {
+        Console.WriteLine("\nAdmin Menu:");
+        Console.WriteLine("1️ Add Teacher");
+        Console.WriteLine("2️ Add Course");
+        Console.WriteLine("3️ Add Student");
+        Console.WriteLine("4️ Assign Teacher to Course");
+        Console.WriteLine("5️ Assign Student to Course");
+        Console.WriteLine("6️ Set Class Schedule");
+        Console.WriteLine("7️ Exit");
+
+        Console.Write("\nEnter your choice: ");
+        string choice = Console.ReadLine();
+
+        switch (choice)
+        {
+            case "1":
+                Console.Write("Enter Teacher Name: ");
+                string teacherName = Console.ReadLine();
+                Console.Write("Enter Username: ");
+                string teacherUsername = Console.ReadLine();
+                Console.Write("Enter Password: ");
+                string teacherPassword = Console.ReadLine();
+                adminService.AddTeacher(teacherName, teacherUsername, teacherPassword);
+                Console.WriteLine("Teacher Added Successfully!");
+                break;
+            case "7":
+                Console.WriteLine("Exiting Admin Menu...");
+                return;
+            default:
+                Console.WriteLine("Invalid choice, try again.");
+                break;
+        }
+    }
+}
+
+// Teacher Menu Options
+static void ShowTeacherMenu(TeacherService teacherService)
+{
+    while (true)
+    {
+        Console.WriteLine("\nTeacher Menu:");
+        Console.WriteLine("1️ Check Attendance");
+        Console.WriteLine("2️ Exit");
+
+        Console.Write("\nEnter your choice: ");
+        string choice = Console.ReadLine();
+
+        switch (choice)
+        {
+            case "1":
+                Console.WriteLine("Checking Attendance...");
+                break;
+            case "2":
+                Console.WriteLine("Exiting Teacher Menu...");
+                return;
+            default:
+                Console.WriteLine("Invalid choice, try again.");
+                break;
+        }
+    }
+}
+
+// Student Menu Options
+static void ShowStudentMenu(StudentService studentService)
+{
+    while (true)
+    {
+        Console.WriteLine("\nStudent Menu:");
+        Console.WriteLine("1️ Mark Attendance");
+        Console.WriteLine("2️ Exit");
+
+        Console.Write("\nEnter your choice: ");
+        string choice = Console.ReadLine();
+
+        switch (choice)
+        {
+            case "1":
+                Console.WriteLine("Marking Attendance...");
+                break;
+            case "2":
+                Console.WriteLine("Exiting Student Menu...");
+                return;
+            default:
+                Console.WriteLine("Invalid choice, try again.");
+                break;
+        }
+    }
+}
+
+

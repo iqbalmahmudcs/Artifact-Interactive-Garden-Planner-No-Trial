@@ -9,15 +9,32 @@ namespace AttendanceSystem
     public class UserService
     {
         private readonly AppDbContext _context;
-            
+
         public UserService(AppDbContext context)
         {
             _context = context;
         }
 
-        public User Login(string userName, string password)
+        public void AddUser(string name, string username, string password, UserRole role)
         {
-            return _context.Users.FirstOrDefault(u => u.UserName == userName && u.Password == password);
+            var user = new User
+            {
+                Name = name,
+                UserName = username,
+                Password = password, 
+                Role = role,
+                UserType = role.ToString()
+            };
+
+            _context.Users.Add(user);
+            _context.SaveChanges();
+        }
+
+        //public List<User> GetAllUsers() => _context.Users.ToList();
+
+        public User Login(string username, string password)
+        {
+            return _context.Users.FirstOrDefault(u => u.UserName == username && u.Password == password);
         }
 
     }

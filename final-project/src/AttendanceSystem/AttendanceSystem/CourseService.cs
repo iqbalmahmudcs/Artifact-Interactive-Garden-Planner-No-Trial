@@ -6,22 +6,6 @@ using System.Threading.Tasks;
 
 //Tasks: create, read, update, Delete
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-//Tasks: create, read, update, Delete
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-//Tasks: create, read, update, Delete
-
 namespace AttendanceSystem
 {
     public class CourseService : BaseService<Course>

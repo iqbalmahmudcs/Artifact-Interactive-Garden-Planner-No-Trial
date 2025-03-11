@@ -14,10 +14,10 @@ namespace AttendanceSystem
         [Required]
         public string Name { get; set; }
         [Required]
-        public string UseName { get; set; }
+        public string UserName { get; set; }
         [Required]
         public string Password { get; set; }
         public UserRole Role { get; set; }
-
+        public string UserType { get; set; }
     }
 }
